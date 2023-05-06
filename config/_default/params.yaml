@@ -1,0 +1,65 @@
+description: Real-time information of industry and technology.
+
+hb:
+  header:
+    brand: Bdmeter # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    socials:
+      github: bdmeter
+      kofi: ronibd0
+      paypal: ronibd0
+      twitter: ronibd0
+      mastodon: ronibd0
+  footer:
+    socials:
+      github: bdmeter
+      kofi: ronibd0
+      paypal: ronibd0
+      twitter: ronibd0
+      mastodon: ronibd0
+  blog:
+    paginate: 12 # paginate.
+    home: # homepage settings.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+        - tutorials
+    giscus:
+      repo: hbstack/theme
+      repo_id: R_kgDOJP3qtA
+      category_id: DIC_kwDOJP3qtM4CVavM
+  docs:
+    giscus:
+      repo: hbstack/theme
+      repo_id: R_kgDOJP3qtA
+      category_id: DIC_kwDOJP3qtM4CVavM
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: hbstack/theme
+      branch: main
+      # subpath: exampleSite
+
+seo:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
+    icon: images/logo.png # use logo as favicon.
+
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'HB Theme'
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true

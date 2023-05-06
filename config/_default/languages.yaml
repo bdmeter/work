@@ -1,0 +1,9 @@
+en:
+  languageName: English
+  weight: 1
+
+zh-hans:
+  languageName: বাংলা
+  title: BDM বাংলা
+  weight: 2
+

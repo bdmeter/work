@@ -1,0 +1,81 @@
+main:
+  - name: Support
+    identifier: support
+    weight: 100
+    url: https://bdmeter.info/
+    params:
+      header: The BDM support community.
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+  - name: Contact
+    parent: support
+    url: page/2023/03/2023-03-17-contact
+    weight: 1
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+        className: text-primary
+      description: Contact us.
+
+  - identifier: support-divider
+    parent: support
+    weight: 10
+    params:
+      divider: true
+
+  - name: Privacy Policy
+    parent: support
+    url: page/2020/11/2020-11-19-privacy-policy
+    weight: 11
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+      description: The privacy policy of Bdmeter.
+
+  - name: Discussion
+    parent: support
+    url: https://github.com/ronibd0/bdmeter.info/discussions
+    weight: 12
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: Ask questions and share your ideas.
+
+  - name: Advertise with us
+    parent: support
+    url: page/2020/11/2020-11-21-advertise-with-us/
+    weight: 13
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+        color: red
+      description: Advertise with Bdmeter.
+
+  - name: Newsletter
+    parent: support
+    url: page/2023/03/2023-03-20-newsletter/
+    weight: 14
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: orange
+      description: Subscribe to get latest articles newsletter in your inbox.
+
+  - name: Earn online
+    parent: support
+    url: page/2023/03/2023-03-26-earn/
+    weight: 15
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: green
+      description: Application to earn online per hour.

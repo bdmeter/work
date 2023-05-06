@@ -1,0 +1,1369 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   	<meta name="title" content="Ahon Communication | Internet Service Provider"> 
+    <meta name="description" content="Welcome to Ahon Communication. Experience The Best Internet Connection Ahon Communication broadband service is one of the leading service providers in the communication service and solutions industries. We’re promised to meet your needs and deliver industry-leading customer service.">
+    <meta name="author" content="Ahon Communication">
+	  
+    <meta name="facebook-domain-verification" content="oqghevxoo3n057rbv0jhwfj39d1wds" />
+    <link rel="icon" href="assets/img/favicon.ico">
+
+    <title>Ahon Communication | Internet Service Provider</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/navbar-fixed/">  
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">    
+    <link href="assets/css/styles.css" rel="stylesheet">  
+    <link href="assets/css/animate.min.css" rel="stylesheet">
+    <link href="assets/css/simplelightbox.min.css" rel="stylesheet">
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
+	  
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,300,400,500,600,700,800,90&display=swap" rel="stylesheet">
+	  
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-md">
+	  <div class="container">
+		<a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" alt="Site Logo"></a>
+
+	  	<button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+		  
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav mb-2 mb-md-0">
+				
+		   </ul>
+		   <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+				<li class="nav-item">
+					<a class="nav-link active" aria-current="page" href="index.php">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" aria-current="page" href="pay-bill.php">Pay Bill</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="pricing.php">Pricing</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="file-server.php">File Server</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="live-tv.php">Live TV</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="products.php">Products</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="gallery.php">Gallery</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="about.php">About Us</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" aria-current="page" href="" data-bs-toggle="modal" data-bs-target="#staticBackdrop">BTRC Letter</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " aria-current="page" href="contact.php">Contact Us</a>
+				</li>
+				<li class="nav-item">
+					<a class="btn btn-purple py-1 rounded-2 ms-2 mt-3 px-2" aria-current="page" href="https://billingfix.ahoncommunication.com/customer_login" target="_blank">Customer Selfcare</a>
+				</li>
+		   </ul>
+
+		</div>
+	  </div>
+	</nav>	
+    	<!-- Home Section -->
+    	<section id="home">
+            <div class="container-fluid">
+            	<div class="row">
+                    
+					<div class="col-12 p-0 position-relative">
+						<div id="carouselFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+						  <div class="carousel-inner">
+							<div class="carousel-item active">
+							  <img src="assets/img/slider/slide-01.webp" class="d-block w-100" alt="Slider Image One">	
+							  <div class="carousel-caption d-none d-md-block">
+                                <h2 class="text-site text-uppercase" style="font-weight:900;">Welcome to AHON COMMUNICATION</h2>
+                                <p class="w-75 mx-auto">Experience The Best Internet Connection Ahon Communication broadband service is one of the leading service providers in the communication service and solutions industries. We’re promised to meet your needs and deliver industry-leading customer service.</p>
+                              </div>
+							</div>
+							<div class="carousel-item">
+							  <img src="assets/img/slider/slide-02.webp" class="d-block w-100" alt="Slider Image Two">
+							  <div class="carousel-caption d-none d-md-block">
+                                <h2 class="text-site text-uppercase" style="font-weight:900;">Dedicated Broadband Internet</h2>
+                                <p class="w-75 mx-auto">Dedicated broadband internet, and larger IP solutions to ensure dedicated broadband internet to users.</p>
+                              </div>
+							</div>
+							<div class="carousel-item">
+							  <img src="assets/img/slider/slide-03.webp" class="d-block w-100" alt="Slider Image Two">
+							  <div class="carousel-caption d-none d-md-block">
+                                <h2 class="text-site text-uppercase" style="font-weight:900;">We povide support 24/7</h2>
+                                <p class="w-75 mx-auto">Our dedicated technical team always try our best supports and solutions.</p>
+                              </div>
+							</div>
+						  </div>
+						  <button class="carousel-control-prev" type="button" data-bs-target="#carouselFade" data-bs-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="visually-hidden">Previous</span>
+						  </button>
+						  <button class="carousel-control-next" type="button" data-bs-target="#carouselFade" data-bs-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="visually-hidden">Next</span>
+						  </button>
+						</div>
+					</div>
+					<div class="col-12">
+					    <marquee class="pt-2 fw-700 text-primary" style="font-family: bangla;">সম্মানিত গ্রাহক, আপনার ইন্টারনেট কানেকশন অপরিচিত বা একাধিক কাউকে ব্যবহার করতে দিবেন না । কারণ তার যেকোনো প্রকার অবৈধ কর্মকাণ্ডের জন্য দায়ভার আপনাকে বহন করতে হবে এবং দুই বা তারও বেশি ব্যবহারকারী যদি, একই সময় আপনার ইন্টারনেট সংযোগটি ব্যাবহার করে তা'হলে আপনি সঠিক পরিমান ইন্টারনেট স্পীড পাবেন না, সুতরাং ইন্টারনেট শেয়ারিং থেকে বিরত থাকুন এবং নিরবিচ্ছিন্ন ইন্টারনেট সংযোগ পেতে অবশ্যই প্রতি মাসের নির্দিষ্ট তারিখের মধ্যে আপনার ইন্টারনেট বিল পরিশোধ করুন, অন্যথায় অটোমেশন সফটওয়্যার দ্বারা আপনার মুল্যবান সংযোগটি বিচ্ছিন্ন হয়ে যাবে । ধন্যবাদ, অহন কমিউনিকেশন।</marquee>    
+					</div>
+					
+                </div>
+            </div>
+        </section>
+    	<!-- Home Section -->
+        
+    	<!-- About Us Section -->
+        <section id="about-us" class="bg-light pt-5 pb-5 hme box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">
+            <div class="container">
+                
+				
+                    <h2 class="title text-center box wow fadeInDown" data-wow-delay="100ms" data-wow-duration="1000ms"><span>About</span> Us</h2>
+					<p class="subtitle text-center box wow fadeInDown" data-wow-delay="100ms" data-wow-duration="1000ms">Largest Broadband Internet Service Provider in Khulna Bangladesh</p>
+                    <div class="row mt-4 text-center">
+                        <div class="col-lg-4 col-md-4 col-sm-12 service-list mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
+                                <div class="card-header p-0 border-0 bg-transparent">                                
+                                	<img src="assets/img/about/01.webp" alt="WHO WE ARE" class="card-img-top rounded-top">
+								</div>
+                                <div class="card-body p-lg-4 py-lg-5 p-3 position-relative">
+									<h3><i class="fa fa-info"></i></h3>
+                                	<h4 class="fs-5 fw-bold mb-3">WHO WE ARE</h4>                             
+                                    <p class="text-muted mb-0">
+                                    	We are largest broadband internet FTTH Fiber Optics Broadband Internet Service Provider. We are Licensed broadband internet services and data center solutions provider.
+                                    </p>
+                                </div>
+                            </div> 
+                        </div>
+                        
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
+                                <div class="card-header p-0 border-0 bg-transparent">                                 
+                                	<img src="assets/img/about/02.webp" alt="OUR MISSION & VISSION" class="card-img-top rounded-top">
+                                </div>
+                                <div class="card-body p-lg-4 py-lg-5 p-3 position-relative">
+									<h3><i class="fa fa-dashboard"></i></h3>
+                                	<h4 class="fs-5 fw-bold mb-3">OUR MISSION &amp; VISSION</h4>                             
+                                    <p class="text-muted mb-0">
+                                    	To provide complete support and service to ensure best quality data comnectivity ot hope and, offices. Alongside, we provide quality IT solutions, CCTV security solutions, networking solutions, hardware solutions and IT business solutions. You are welcome to take cup of tea with us.
+                                    </p>
+                                </div>
+                            </div> 
+                        </div>
+					
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1000ms">
+                                <div class="card-header p-0 border-0 bg-transparent">                                 
+                                	<img src="assets/img/about/03.webp" alt="VALUE" class="card-img-top rounded-top">
+                                </div>
+                                <div class="card-body p-lg-4 py-lg-5 p-3 position-relative">
+									<h3><i class="fa fa-line-chart"></i></h3>
+                                	<h4 class="fs-5 fw-bold mb-3">VALUE</h4>                             
+                                    <p class="text-muted mb-0">
+                                    	Our strength in IP Network Design, deployment, outdoor overhead fiber network solutions, indoor networking, data center solutions and high end solutions Integration.
+                                    </p>
+                                </div>
+                            </div> 
+                        </div>
+                        
+                        <h5 align="center" class="mt-3 box wow fadeInUp" data-wow-delay="700ms" data-wow-duration="1000ms">
+                            <a href="about.php" class="btn btn-md btn-purple">Know More</a>
+                        </h5>                        
+                </div>
+				
+            </div>
+        </section>
+    	<!-- About Us Section -->
+        
+    	<!-- Why Choose Us Section -->
+        <section id="file_server" class="pt-5 pb-5  box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">
+            <div class="container cats">
+			
+			<div class="row">
+				<div class="col-md-12 col-12">
+					<h2 class="title box wow fadeInUp text-center" data-wow-delay="400ms" data-wow-duration="1000ms">File <span>Server</span></h2>
+					<p class="subtitle w-50 mx-auto box wow fadeInLeft mb-4" align="center" data-wow-delay="500ms" data-wow-duration="1000ms">
+						When you need Instant access to Movies, Series, Softwares, Tutorials, or Games, thus our file server will help you to download faster within a min max.
+					</p>
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">					
+					<div class="card shadow border-0 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="100ms">  
+						<a href="http://103.141.60.54/" target="_blank">                  	
+							<div class="card-img">
+								<img src="assets/img/ftp/khulnaplex.png" class="mw-100">
+							</div>                    	
+							<div class="card-body bg-light">
+								<h5 class="h6 text-dark text-center fw-bold mb-0">Khulnaplex FTP</h5>
+							</div>
+						</a>
+					</div>					
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">					
+					<div class="card shadow border-0 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="200ms">  
+						<a href="http://10.16.100.244/" target="_blank">                  	
+							<div class="card-img">
+								<img src="assets/img/ftp/icc.png" class="mw-100">
+							</div>                    	
+							<div class="card-body bg-light">
+								<h5 class="h6 text-dark text-center fw-bold mb-0">ICC FTP</h5>
+							</div>
+						</a>
+					</div>					
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">					
+					<div class="card shadow border-0 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="300ms">  
+						<a href="http://circleftp.net/" target="_blank">                  	
+							<div class="card-img">
+								<img src="assets/img/ftp/circle.png" class="mw-100">
+							</div>                    	
+							<div class="card-body bg-light">
+								<h5 class="h6 text-dark text-center fw-bold mb-0">Circle FTP</h5>
+							</div>
+						</a>
+					</div>					
+				</div>
+				<div class="col-lg-3 col-sm-6 col-12">					
+					<div class="card shadow border-0 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="400ms">  
+						<a href="http://192.168.11.4/" target="_blank">                  	
+							<div class="card-img">
+								<img src="assets/img/ftp/ahon.png" class="mw-100">
+							</div>                    	
+							<div class="card-body bg-light">
+								<h5 class="h6 text-dark text-center fw-bold mb-0">Ahon FTP</h5>
+							</div>
+						</a>
+					</div>					
+				</div>
+				
+            </div>	
+			
+		</div>
+        </section>
+        <!-- Why Choose Us Section -->
+		<section id="why-us" class="pt-5 pb-5  box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">
+            <div class="container">
+                <div class="row text-center">
+                        
+                        
+                            <div class="col-md-12 col-12">
+                            	<h2 class="title box wow fadeInUp text-center text-white" data-wow-delay="400ms" data-wow-duration="1000ms">Our <span>Services</span></h2>
+                                <p class="subtitle text-white w-50 mx-auto box wow fadeInLeft mb-4" align="center" data-wow-delay="500ms" data-wow-duration="1000ms">
+                                    We ensure high speed broadband data to use better internet what you need. When you need quality, we are in Khulna.
+                                </p>
+                            </div>
+                        
+                            <div class="col-md-6 col-12 point box wow fadeInDown mb-lg-0 mb-4" data-wow-delay="600ms" data-wow-duration="1000ms">
+								<h4 class="text-uppercase text-info-site"><span><i data-feather="globe" class="text-white"></i></span> Dedicated Internet</h4>
+								<p class="text-white">
+									Broadband Internet service high speed access to your target site, enjoy bufferless video live, IP TV and largest FTP in khulna.
+								</p>
+                            </div>
+                            <div class="col-md-6 col-12 point box wow fadeInDown mb-lg-0" data-wow-delay="600ms" data-wow-duration="1000ms">
+								<h4 class="text-uppercase text-info-site"><span><i data-feather="file-text" class="text-white"></i></span> Internet Blog</h4>
+								<p class="text-white">
+									Internet blog can help you to leanr About Internet Technology.
+								</p>
+                            </div>
+            	</div>
+			</div>
+        </section>         
+
+
+        <!-- Services Section-->
+        <section id="services" class="bg-light pt-5 pb-5 box wow fadeIn" data-wow-delay="100ms" data-wow-duration="1000ms">
+            <div class="container">
+                <div class="row">
+                    <h2 class="title text-center box wow fadeIn" data-wow-delay="100ms" data-wow-duration="1000ms"><span>Live</span> TV</h2>
+                    <p class="subtitle mb-4 text-center">News for you as always</p>
+					
+                        <div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-4 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1000ms">
+                                <a href="http://14.20.20.2/" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="play"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">Sports Live TV</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+                        
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-4 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1000ms">
+                                <a href="http://khulnaplex.net/tv/" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="tv"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">Khulnaplex TV</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+					
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-4 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
+                                <a href="http://10.16.100.244/livetv.php" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="upload-cloud"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">ICC Live TV</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+					
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-0 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1000ms">
+                                <a href="http://live.bdbioscope.com/" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="home"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">AHON Live TV</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+					
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-0 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
+                                <a href="http://bciptv.net/" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="target"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">Circle Live TV-1</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+					
+						<div class="col-lg-4 col-md-4 col-sm-12 service-list mb-lg-0 mb-3">
+                            <div class="card border-0 shadow-md rounded-3 box wow fadeInUp" data-wow-delay="350ms" data-wow-duration="1000ms">
+                                <a href="http://bdiptv.net/" target="_blank">
+									<div class="row g-0">
+										<div class="col-3 rounded-start bg-warning">
+											<h3 class="mt-4 pb-3 text-center"><i data-feather="target"></i></h3>
+										</div>
+										<div class="col-8">
+										  <div class="card-body">
+											<h5 class="card-title mt-2 pt-2 fs-6 text-dark">Circle Live TV-2</h5>
+										  </div>
+										</div>
+									</div>								
+								</a>
+                            </div> 
+                        </div>
+					
+						                 
+                </div>
+            </div>
+        </section>
+        <!-- Services Section-->        
+        
+ 		<!-- Pricing Section-->  
+        <section id="pricing-panel" class="pt-5 pb-5 box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">      
+            <div class="container">
+                <div class="row mb-2">
+                    <h2 class="title text-center box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1000ms">Our <span>Pricing</span></h2>
+					<p class="subtitle text-center">Ek Desh Ek Rate Package</p>
+					
+					
+				</div>	
+                <div class="row"> 
+					<div class="col-md-12 packages owl-carousel owl-theme">
+					
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="50ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-1</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">5</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>500</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>5</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="150ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-2</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">6</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>560</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>6</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="250ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-3</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">7</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>620</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>7</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="350ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-4</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">10</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>800</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>10</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="450ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-5</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">12</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>880</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>12</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="550ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-6</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">15</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>1000</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>15</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="650ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-7</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">20</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>1200</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>20</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="750ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-8</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">25</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>1400</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>25</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+							
+							<div class="item pt-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="850ms">
+								<div class="col-12 px-1 pricing">
+									<div class="card shadow-md border-0 rounded-3 mb-3">                    	
+										<div class="card-header bg-1 rounded-top">
+											<h4 class="card-title">Package-9</h4>
+										</div>
+										<div class="card-body text-white bg-1 py-5">
+
+											<div class="row text-center">
+												<div class="col-6">
+													<h6 class="mt-3 fs-8 text-info text-uppercase">Bandwidth</h6>
+													<h4><span class="fw-bold fs-4">30</span> <span class="fw-normal fs-6">Mbps</h4>
+													
+													
+												</div>
+												<div class="col-6">
+													<h1 class="mt-lg-0 mt-1"><strong>1600</strong></h1>
+													<h6 class="fs-8 text-uppercase">Tk/Month</h6>
+												</div>
+											</div>
+										</div>
+										<div class="card-body p-4 fs-7">
+
+											<table class="table mb-0">
+												<tbody>
+													<tr>
+														<td>Bandwidth</td>
+														<td><strong>30</strong> Mbps</td>
+													</tr>
+													<tr>
+														<td>Youtube</td>
+														<td><strong>4K</strong></td>
+													</tr>
+													<tr>
+														<td>Facebook</td>
+														<td><strong>HD</strong></td>
+													</tr>
+													<tr>
+														<td>Bdix</td>
+														<td><strong>Connected</strong></td>
+													</tr>
+													<tr>
+														<td class="border-0">VAT</td>
+														<td class="border-0"><strong>5%</strong></td>
+													</tr>
+												</tbody>
+											</table>
+
+										</div>
+
+										<div class="card-footer bg-white border-0 d-none">
+											<h6 align="center" class="mb-0 py-2 fs-8"><a href="" class="text-site fw-normal">Choose Package</a></h6>
+										</div>
+
+									</div>
+								</div>
+							</div>
+												</div>
+                    <div class="col-12">                    	
+                        <h5 align="center" class="mt-3 box wow fadeInUp" data-wow-delay="700ms" data-wow-duration="1000ms">
+                            <a href="pricing.php" class="btn btn-lg btn-purple">View All Pricing</a>
+                        </h5>   
+                    </div>
+                    
+                    
+                </div>
+            </div>
+       	</section>
+        <!-- Pricing Section-->
+        
+        <!-- Gallery Section-->
+        <section id="gallery" class="pt-5 pb-5 box wow fadeIn" data-wow-delay="100ms" data-wow-duration="1000ms">
+            <div class="container gallery">        	
+                <h2 class="title text-center box wow fadeIn" data-wow-delay="150ms" data-wow-duration="1000ms"><span>BTRC Tariff</span> Approval Letter</h2>
+				<p class="subtitle text-center">View Our Documentation</p>
+				
+				<div class="row mt-4 gallery">
+				  
+					
+				  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 box wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
+					  <div class="card border-0 shadow-md rounded-3 mb-3" style="height: 200px;overflow: hidden;">
+						  <a href="assets/img/gallery/gallery-01.jpg">
+						  	<img src="assets/img/gallery/gallery-01.jpg" class="w-100 rounded-3" alt="Documents"/>
+						  </a>
+					  </div>					
+				  </div>
+
+				  <div class="col-lg-4 mb-4 mb-lg-0 box wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+					  <div class="card border-0 shadow-md rounded-3 mb-3" style="height: 200px;overflow: hidden;">
+						  <a href="assets/img/gallery/gallery-02.jpg">
+						  	<img src="assets/img/gallery/gallery-02.jpg" class="w-100 rounded-3" alt="Documents"/>
+						  </a>
+							  
+					  </div>
+				  </div>
+				  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 box wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
+					  <div class="card border-0 shadow-md rounded-3 mb-3" style="height: 200px;overflow: hidden;">
+						  <a href="assets/img/gallery/gallery-03.jpg">
+						  	<img src="assets/img/gallery/gallery-03.jpg" class="w-100 rounded-3" alt="Documents"/>
+						  </a>
+					  </div>
+				  </div>
+
+				  
+				</div>
+				
+				<div class="row">
+					<div class="col-12">                    	
+                        <h5 align="center" class="mt-3 box wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
+                            <a href="" class="btn btn-purple" data-bs-toggle="modal" data-bs-target="#staticBackdrop">BTRC Approval Letter</a>
+                        </h5>   
+                    </div>
+				</div>
+				
+				
+            </div>
+        </section>
+        <!-- Gallery Section-->
+        
+        <!-- Appointment Section -->
+        <section id="appointment" class="pt-5 pb-5 box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">
+            <div class="container pt-lg-5 pb-lg-5">
+                <div class="row">
+					
+					
+					<div class="col-lg-3 col-6 text-center mb-3">
+						<h2 class="h1 text-white fw-bold">800</h2>
+						<h6 class="text-info-site text-uppercase">HAPPY CLIENTS</h6>
+					</div>
+					<div class="col-lg-3 col-6 text-center mb-3">
+						<h2 class="h1 text-white fw-bold">6</h2>
+						<h6 class="text-info-site text-uppercase">Live Tv Server</h6>
+					</div>
+					<div class="col-lg-3 col-6 text-center">
+						<h2 class="h1 text-white fw-bold">4</h2>
+						<h6 class="text-info-site text-uppercase">FTP Servers</h6>
+					</div>
+					<div class="col-lg-3 col-6 text-center">
+						<h2 class="h1 text-white fw-bold">9</h2>
+						<h6 class="text-info-site text-uppercase">Internet Packages</h6>
+					</div>
+					
+					
+				</div>
+            </div>
+        </section>
+        <!-- Appointment Section -->                  
+            
+        <section id="shop-panel" class="bg-light pt-5 pb-5 box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">      
+            <div class="container">
+                <div class="row mb-3">
+                    <h2 class="title text-center box wow fadeIn" data-wow-delay="300ms" data-wow-duration="1000ms">Our <span>Shop</span></h2>
+					<p class="subtitle text-center">Get Routers, Modems at cheapest price</p>
+				</div>
+				<div class="row text-center">	
+					
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="150ms">  
+										<a href="details.php?i=151215">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/01.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Archer Router</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="250ms">  
+										<a href="details.php?i=151216">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/02.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Archer Router Black</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="350ms">  
+										<a href="details.php?i=151217">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/03.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Archer Router Black 4 Antenna</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="450ms">  
+										<a href="details.php?i=151218">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/04.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Archer Router Black 3 Antenna</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="550ms">  
+										<a href="details.php?i=151219">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/05.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Deco M4 (3 Pack) Whole Home Mesh Wi-Fi System AC1200 Dual-band Router</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="650ms">  
+										<a href="details.php?i=151220">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/06.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">TP-Link Deco M4 (2 Pack) Whole Home Mesh Wi-Fi System AC1200 Dual-band Router</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="750ms">  
+										<a href="details.php?i=151221">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/07.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">Tp-Link Archer AX10 AX1500 Wi-Fi 6 Gigabit Router</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							
+							
+								<div class="col-lg-3 col-sm-6 col-12">
+									<div class="shadow-md card border-0 rounded-3 box wow fadeInUp mb-3" data-wow-delay="300ms" data-wow-duration="850ms">  
+										<a href="details.php?i=151222">                  	
+											<div class="card-img">
+												<img src="assets/img/shop/08.jpg">
+											</div>                    	
+											<div class="card-body">
+												<h6 class="fs-8 text-muted">Router</h6>
+												<h6 class="text-dark fw-bold">Tenda AC23 2033mbps AC2100 7 Antenna Dual Band Gigabit Wireless Router (Black)</h6>
+											</div>
+										</a>
+									</div>
+								</div>
+							
+							                    
+                    
+                    <div class="col-md-12 col-xs-12 mt-4">                    	
+                        <h5 align="center" class="box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1000ms">
+                            <a href="products.php" class="btn btn-lg btn-purple">View Other Products</a>
+                        </h5>   
+                    </div>
+                    
+                    
+                </div>
+            </div>
+       	</section>   
+
+            
+        <section id="social" class="pt-4 pb-4 box wow fadeIn" data-wow-delay="200ms" data-wow-duration="1000ms">
+            <div class="container text-center">        	
+               
+				<a href="https://www.facebook.com/rojas.makeover/" target="_blank">
+					<i class="fa fa-facebook box wow slideInUp" data-wow-delay="400ms" data-wow-duration="1000ms" aria-hidden="true"></i>
+				</a>
+				<a href="#">
+					<i class="fa fa-google-plus box wow slideInUp" data-wow-delay="500ms" data-wow-duration="1000ms" aria-hidden="true"></i>
+				</a>
+				<a href="#">
+					<i class="fa fa-twitter box wow slideInUp" data-wow-delay="600ms" data-wow-duration="1000ms" aria-hidden="true"></i>
+				</a>
+				<a href="#">
+					<i class="fa fa-instagram box wow slideInUp" data-wow-delay="700ms" data-wow-duration="1000ms" aria-hidden="true"></i>
+				</a>
+				<a href="#">
+					<i class="fa fa-youtube-play box wow slideInUp" data-wow-delay="800ms" data-wow-duration="1000ms" aria-hidden="true"></i>
+				</a>
+				
+				
+            </div>
+        </section>
+        
+ 
+       <!-- Footer Section-->
+       <section id="ssl" class="pt-5 pb-5">
+           <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4 class="text-center">Pay <span class="text-site fw-700">With</span></h4>
+                        <p class="subtitle w-50 mx-auto mb-4" align="center">
+    						Verified by SSLCOMMERZ
+    					</p>
+                        <img src="assets/img/ssl.png" width="100%">
+                    </div>
+                </div>
+                        
+            </div>
+       </section>
+        <section id="footer" class="pt-5">
+            
+            <div class="container footer">
+                <div class="row">
+                
+                    <div class="col-md-4 footer-info box wow fadeInDown" data-wow-delay="100ms" data-wow-duration="1000ms">
+                        <h3 class="fs-4">Ahon Communication</h3>
+						<p class="text-white">Experience The Best Internet Connection Ahon Communication broadband service is one of the leading service providers in the communication service and solutions industries. We’re promised to meet your needs and deliver industry-leading customer service.</p>						
+                    </div>
+                    
+					<div class="col-md-4 footer-info box wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1000ms">
+                        <h5>
+                        	<i class="fa fa-anchor" aria-hidden="true"></i> <b>Useful Links</b>
+                        </h5>
+						<ul class="box wow fadeInDown" data-wow-delay="300ms" data-wow-duration="1000ms">
+							<li>
+								<a aria-current="page" href="index.php">Home</a>
+							</li>
+							<li class="nav-item">
+								<a aria-current="page" href="about.php">About Us</a>
+							</li>
+							<li>
+								<a aria-current="page" href="gallery.php">Gallery</a>
+							</li>
+							<li>
+								<a aria-current="page" href="pricing.php">Pricing</a>
+							</li>
+							<li>
+								<a aria-current="page" href="products.php">Products</a>
+							</li>
+							<li>
+								<a aria-current="page" href="contact.php">Contact Us</a>
+							</li>
+							<li>
+								<a aria-current="page" href="privacy-policy.php">Privacy Policy</a>
+							</li>
+							<li>
+								<a aria-current="page" href="terms-and-conditions.php">Terms &amp Conditions</a>
+							</li>
+							<li>
+								<a aria-current="page" href="return-and-refund.php">Return &amp Refund Policy</a>
+							</li>
+						</ul>
+                    </div>					
+                    
+                    <div class="col-md-4 footer-address box wow fadeInDown" data-wow-delay="400ms" data-wow-duration="1000ms">
+                        <h5 class="mt-lg-0 mt-3">
+                        	<b>NOC Office Address</b>
+                        </h5>
+						<h6 class="mb-3 ps-3"><i class="fa fa-map text-info" aria-hidden="true"></i> Arafat Super Market</h6>
+						<h6 class="mb-3 ps-3"><i class="fa fa-map-marker text-info" aria-hidden="true"></i> Zero Point, Labonchara, Khulna.</h6>
+						<h6 class="mb-3 ps-3"><i class="fa fa-phone text-info" aria-hidden="true"></i> Phone: +88-01970867592, +88-01979204121</h6>
+						
+						
+						<div class="row gx-1">
+                            <div class="col-3">
+                                <h6 class="ps-3"><i class="fa fa-envelope-open text-info" aria-hidden="true"></i> Email:</h6>
+                            </div>
+                            <div class="col-9">
+                                <h6>ahoncommunication@gmail.com</h6>
+                                <h6>noc@ahoncommunication.com</h6>
+                            </div>
+                        </div>
+						<h5 class="mt-lg-2 mt-3">
+                        	<b>Address(Trade License)</b>
+                        </h5>
+                        <div class="row gx-1">
+                            <div class="col-1">
+                                <h6 class="text-center ps-3 mt-2 pt-1"><i class="fa fa-map-marker text-info" aria-hidden="true"></i></h6>
+                            </div>
+                            <div class="col-11">
+                                <h6 class="lh-base ps-1">Krishnanagar Zero Point, Jalma<br />Batiaghata, Khulna.</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="row">
+                <div class="col-md-12 mt-4 copyright box wow fadeIn" data-wow-delay="100ms" data-wow-duration="1000ms">
+                    <h6 class="fs-7">&copy;Copyright 2023 <a href="index.php" class="text-site">Ahon Communication</a> All Rights Reserved</h6>
+                    <h6 class="fs-8 fw-normal mb-0">Design &amp; Developed By <a href="https://www.linkedin.com/in/preetom-mondal-a09940bb/" target="_blank" class="text-info fw-bold">Preetom Mondal</a> (+88 01928 701698)</h6>
+                </div>
+            </div>
+            
+        </section>
+    <!-- Main content end -->
+    <a id="backtotop" class="d-none" href="#home"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- Included JS files -->
+    <script src="assets/js/jquery.js"></script>
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/simple-lightbox.min.js"></script>
+    
+	<script>
+
+        $(document).ready(function() {
+			new WOW().init();
+          	feather.replace({ 'aria-hidden': 'true' });
+			$(function(){$('.gallery a').simpleLightbox({ showCounter:false,caption:true});});
+			var packages = $('.packages');
+			packages.owlCarousel({
+				margin: 20,
+				loop: true,
+				autoplay:true,
+				nav:true,
+				dots:false,
+				autoplayTimeout:2500,
+				autoplayHoverPause:true,
+				responsive:{
+						0:{
+							items:1
+						},
+						768:{
+							items:3
+						},
+						1200:{
+							items:3
+						}
+					}
+				})
+			});
+			
+	</script>
+
+  </body>
+</html>
+
+
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">BTRC Approval Letter</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body" style="min-height: 600px;">
+		  <iframe src="https://www.ahoncommunication.com/letter.pdf" width="600" height="600" style="position: absolute;top: 0;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 150;"></iframe>
+      </div>
+      <div class="modal-footer p-2">
+        <button type="button" class="btn btn-purple btn-sm" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

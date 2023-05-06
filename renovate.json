@@ -1,0 +1,13 @@
+{
+  "$schema": "http://dev.bdmeter.info/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchManagers": ["gomod"],
+      "matchDepTypes": ["indirect"],
+      "enabled": true
+    }
+  ]
+}
