@@ -49,3 +49,14 @@ TThe Bdmeter theme of [BDM Framework](https://bdmeter.info), live demo: [Bdmeter
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/hbstack/theme/main/images/screenshot.png)
+
+
+### GIT PUSH CODE:
+
+- git init
+
+- git add .
+
+- git commit -m "First commit"
+
+- git push -u origin master
