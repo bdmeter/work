@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/bdmeter/work
 
 go 1.19
 
@@ -24,8 +24,8 @@ require (
 	github.com/hbstack/docs/modules/featured-image v0.1.2 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.2 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.1 // indirect
-	github.com/hbstack/footer v0.1.5 // indirect
-	github.com/hbstack/footer/modules/socials v0.1.2 // indirect
+	github.com/bdmeter/footer v0.1.5 // indirect
+	github.com/bdmeter/footer/modules/socials v0.1.2 // indirect
 	github.com/hbstack/gallery v0.3.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.1.4 // indirect
@@ -53,6 +53,8 @@ require (
 	github.com/hugomods/bootstrap v0.4.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.0 // indirect
+	github.com/hugomods/google-adsense v0.1.0 // indirect
+	github.com/hugomods/google-analytics v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
 	github.com/hugomods/katex v0.1.3 // indirect
