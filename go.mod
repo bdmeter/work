@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/bdmeter/theme
 
 go 1.19
 
