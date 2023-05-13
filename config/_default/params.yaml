@@ -26,19 +26,19 @@ hb:
         - blog
         - tutorials
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: ronibd0/bdmeter.info
+      repo_id: R_kgDOJdxA5Q
+      category_id: DIC_kwDOJdxA5c4CWMgX
   docs:
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: ronibd0/bdmeter.info
+      repo_id: R_kgDOJdxA5Q
+      category_id: DIC_kwDOJdxA5c4CWMgX
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
-      branch: main
+      repo: ronibd0/bdmeter.info
+      branch: master
       # subpath: exampleSite
 
 seo:
@@ -51,7 +51,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'Bdmeter'
 
 hugopress:
   modules:

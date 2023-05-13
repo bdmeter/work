@@ -1,3 +1,7 @@
+github.com/hbstack/back-to-top v0.1.2 h1:eQ05oJjjl6ByFMKjuSCYJDLl5i5DCRyUt7Z5EdsxzIU=
+github.com/hbstack/back-to-top v0.1.2/go.mod h1:/Hc4gkEbdaNLSd5j7jjYsvjl39UBX0bTO5/g4ltNfR0=
+github.com/hbstack/idb v7.1.1+incompatible h1:Y2G1rziTTPrvCsDnchq3UzYFWv73bMEilLRTc6wogoY=
+github.com/hbstack/idb v7.1.1+incompatible/go.mod h1:im4EkFR3ig5ql9IZej36hNYttGQ6zxDlsHSU86R/E3Q=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hbstack/back-to-top v0.1.2 h1:eQ05oJjjl6ByFMKjuSCYJDLl5i5DCRyUt7Z5EdsxzIU=

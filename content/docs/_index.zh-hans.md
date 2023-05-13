@@ -9,4 +9,6 @@ menu:
         name: book
 ---
 
-This is Bdmeter. largest blosite content provider. We are providing quality data and information free of cost to help us to grow our business and industry. 
+This is the docimentaion part of Bdmeter technology. This part will cover different business and industry installation to end user product operations guidelines. Keep your eyes on us.
+
+- coming soon! 

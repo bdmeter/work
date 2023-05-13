@@ -1,5 +1,25 @@
 {{/* Put custom HTML markup before the end of <body>. */}}
 
+<script>
+     window.fbAsyncInit = function() {
+          FB.init({
+          appId      : '6448369525193572',
+          xfbml      : true,
+          version    : 'v16.0'
+          });
+          FB.AppEvents.logPageView();
+     };
+     
+     (function(d, s, id){
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "https://connect.facebook.net/en_US/sdk.js";
+          fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
 <amp-auto-ads type="adsense"
     data-ad-client="ca-pub-6173503627170942">
 </amp-auto-ads>
@@ -55,3 +75,4 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRZQ9PK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+

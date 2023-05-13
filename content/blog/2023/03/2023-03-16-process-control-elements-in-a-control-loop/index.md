@@ -1,5 +1,5 @@
 ---
-title: "Process control &amp; elements in a control loop"
+title: "Process control and elements in a control loop"
 date: "2023-03-16"
 categories: 
   - "building-materials"

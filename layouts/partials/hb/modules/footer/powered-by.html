@@ -1,0 +1,15 @@
+{{- if default true .Site.Params.hb.footer.powered_by }}
+  {{- $sites := slice
+    (dict "url" "https://bdmeter.info/" "title" "Bdmeter")
+    (dict "url" "https://bdmeter.info/" "title" "BDM Modules")
+    (dict "url" "http://dev.bdmeter.info" "title" "BDM Framework")
+  }}
+  {{- $format := `<a href="%s" target="_blank" rel="external" title="%s">%s</a>` }}
+  {{- $links := slice }}
+  {{- range $sites }}
+    {{- $links = $links | append (printf $format .url .title .title) }}
+  {{- end }}
+  <li class="mt-2">
+    Built with ❤️ from {{ delimit $links ", " " and " }}.
+  </li>
+{{- end -}}

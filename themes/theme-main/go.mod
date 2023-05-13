@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/hbstack/work
 
 go 1.19
 
@@ -53,6 +53,8 @@ require (
 	github.com/hugomods/bootstrap v0.4.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.0 // indirect
+	github.com/hugomods/google-adsense v0.1.0 // indirect
+	github.com/hugomods/google-analytics v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
 	github.com/hugomods/katex v0.1.3 // indirect
