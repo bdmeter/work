@@ -1,5 +1,5 @@
 ---
-title: "Heating Oil Price Up In Altoona PA"
+title: "Heating Oil Price Up In Altoona PA on 28 Jan 2023"
 date: "2023-01-28"
 categories: 
   - "oil-gas-industry"

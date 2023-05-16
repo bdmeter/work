@@ -2,3 +2,6 @@ baseURL = 'https://bdmeter.info'
 languageCode = 'en-us'
 title = 'Real-time information of industry and technology'
 disableLanguages = ['zh-hans']
+
+[params]
+  canonicalUrl = 'https://bdmeter.info/'

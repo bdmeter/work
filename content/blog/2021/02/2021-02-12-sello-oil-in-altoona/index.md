@@ -1,5 +1,5 @@
 ---
-title: "Sello oil in Altoona PA"
+title: "Sello oil in Altoona PA on 12 Feb 2021"
 date: "2021-02-12"
 categories: 
   - "business"
@@ -16,6 +16,8 @@ tags:
   - "sello-oil"
   - "sello-oil-in-altoona-pa"
 ---
+
+# Sello Oil price update on 12 Feb 2021
 
 ## What is sello oil?
 

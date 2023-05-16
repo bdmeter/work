@@ -13,4 +13,6 @@ To join Bdmeter community, sign up here
 
 [Click here to Sign up](https://bdmeter.info/community-home/)
 
+Due to high number of requests, we are unavailable for certain period. Please wait for a while..
+
 

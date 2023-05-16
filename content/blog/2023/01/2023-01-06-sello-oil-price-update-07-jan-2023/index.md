@@ -16,7 +16,7 @@ tags:
   - "sello-oil-in-altoona-pa"
 ---
 
-## Sel-Lo Oil's latest price update
+## Sel-Lo Oil's latest price update on 07 Jan 2023
 
 | Prices last changed on 1/07/23 | Heating Oil  
 $ | Blend  

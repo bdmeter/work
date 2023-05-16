@@ -39,9 +39,9 @@ The starter theme template of [HB Framework](https://hb.hugomods.com).
 | Platform | URL |
 | -------- | --- |
 | Cloudflare Pages | https://bdmeter.info/ |
-| GitHub Pages | https://hbstack.github.io/theme/ |
+| GitHub Pages | https://bdmeter.github.io/theme/ |
 | Netlify | https://bdm-theme.netlify.app/ |
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/hbstack/theme/main/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/bdmeter/theme/main/images/screenshot.png)

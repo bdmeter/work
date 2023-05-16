@@ -4,7 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: 
-noindex: false
+index: true
 # comments: false
 nav_weight: 1000
 # nav_icon:

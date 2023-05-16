@@ -1,0 +1,6 @@
+{{- $js := slice 
+  (resources.Get "mods/katex/katex.min.js")
+  (resources.Get "mods/katex/contrib/auto-render.min.js")
+}}
+{{- $js = $js | resources.Concat "js/katex.js" }}
+{{- return $js -}}

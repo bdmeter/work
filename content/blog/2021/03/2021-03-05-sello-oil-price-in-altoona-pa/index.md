@@ -1,5 +1,5 @@
 ---
-title: "Latest sello oil price in Altoona"
+title: "Latest sello oil price in Altoona on 5 Mar 2021"
 date: "2021-03-05"
 categories: 
   - "business"
@@ -9,6 +9,8 @@ tags:
   - "sello-oil"
   - "sello-oil-in-altoona-pa"
 ---
+
+## sello oil price in Altoona on 5 Mar 2021
 
 All latest price of Heating Oil fuel in Blair county
 

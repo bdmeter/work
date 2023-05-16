@@ -12,6 +12,9 @@ tags:
   - "sello-oil-in-altoona-pa"
 ---
 
+
+## Sello Oil Price Update 17-Feb-2021
+
 | **On Dated 2/17/21** | **Heating Oil** | **Blend** | **Kerosene** | **Dyed ULSD**  
 **(Off-Road Vehicle)** |
 | --- | --- | --- | --- | --- |

@@ -9,24 +9,28 @@ Your simple sharing of a website can be a part of a team. Your simple ideas and 
 
 
 <form action="https://getform.io/f/1003cb49-edc3-4dca-9c2c-456328bd412c" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="text" name="message">
+    <p>Name: <input type="text" name="name"> </p>
+    <p>Email: <input type="email" name="email"> </p>
+    <p>Phone: <input type="text" name="phone"> </p>
     <!-- add hidden Honeypot input to prevent spams -->
     <input type="hidden" name="_gotcha" style="display:none !important">
     <!-- checkbox handle -->
-    <input type="checkbox" name="subscribe" value="yes" checked>
-    <input type="hidden" name="subscribe" value="no">
+    <p><b>Subscribe</b></p> 
+    <p>yes: <input type="checkbox" name="subscribe" value="yes" checked> </p>
+    <p>no: <input type="hidden" name="subscribe" value="no"> </p>
     <!-- radio button handle -->
-    <input type="radio" name="gender" value="male" checked>
-    <input type="radio" name="gender" value="female">
-    <input type="radio" name="gender" value="other">
+    <p><b>Gerder</b></p>
+    <p>Male: <input type="radio" name="gender" value="male" checked> </p>
+    <p>Female: <input type="radio" name="gender" value="female"> </p>
+    <p>Other: <input type="radio" name="gender" value="other"> </p>
     <!-- select field handle -->
+    <p>Work-experience:
     <select name="work-experience">
         <option value="one-year">0-1 years</option>
         <option value="one-five-years">1-5 years</option>
         <option value="one-five-years">5-10 years</option>
         <option value="one-five-years">10+ years</option>
     </select>
+    </p>
     <button type="submit">Send</button>
 </form>

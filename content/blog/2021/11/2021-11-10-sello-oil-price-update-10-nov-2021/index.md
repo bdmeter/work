@@ -1,5 +1,5 @@
 ---
-title: "Sello Oil Price in Altoona PA"
+title: "Sello Oil Price in Altoona PA on 10 Nov 2021"
 date: "2021-11-10"
 categories: 
   - "business"

@@ -5,14 +5,14 @@ hb:
     brand: HB # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     socials:
-      github: hbstack
+      github: bdmeter
       kofi: bdmeter
       paypal: bdmeter
       twitter: bdmeter
       mastodon: bdmeter
   footer:
     socials:
-      github: hbstack
+      github: bdmeter
       kofi: bdmeter
       paypal: bdmeter
       twitter: bdmeter
@@ -26,18 +26,18 @@ hb:
         - blog
         - tutorials
     giscus:
-      repo: hbstack/theme
+      repo: bdmeter/theme
       repo_id: R_kgDOJP3qtA
       category_id: DIC_kwDOJP3qtM4CVavM
   docs:
     giscus:
-      repo: hbstack/theme
+      repo: bdmeter/theme
       repo_id: R_kgDOJP3qtA
       category_id: DIC_kwDOJP3qtM4CVavM
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
+      repo: bdmeter/theme
       branch: main
       # subpath: exampleSite
 

@@ -1,0 +1,25 @@
+/*! purgecss start ignore */
+@import "../../../../search/scss/index";
+
+:root {
+    --search-primary: var(--#{$prefix}primary);
+    --search-bg: var(--#{$prefix}body-bg);
+    --search-color: var(--#{$prefix}body-color);
+    --search-color-secondary: var(--#{$prefix}secondary-color);
+    --search-border-color: var(--#{$prefix}border-color);
+    --search-result-bg: var(--#{$prefix}secondary-bg);
+    --search-result-color: var(--#{$prefix}body-color);
+    --search-result-color-secondary: var(--#{$prefix}secondary-color);
+
+    &[data-bs-theme="dark"] {
+        --search-primary: var(--#{$prefix}primary-text-emphasis);
+    }
+}
+
+.search-result {
+    mark {
+        padding: 0;
+    }
+}
+
+/*! purgecss start end */

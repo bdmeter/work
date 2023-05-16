@@ -4,7 +4,7 @@ title: "指南"
 date: 2023-03-31T11:47:31+08:00
 draft: false
 description: 
-noindex: false
+index: true
 pinned: true
 nav_weight: 1000
 # nav_icon:

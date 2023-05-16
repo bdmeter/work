@@ -1,6 +1,6 @@
 ---
-title: "Sel-Lo Oil Price"
-date: "2023-01-06"
+title: "Sel-Lo Oil Price update on 13 Jan 2023"
+date: "2023-01-23"
 categories: 
   - "business"
   - "industry"
@@ -42,7 +42,7 @@ tags:
   - "unitedstates"
 ---
 
-## Sel-Lo Oil latest price update
+## Sel-Lo Oil latest price update on 13 Jan 2023
 
 | Prices last changed on 1/13/23 | Heating Oil  
 $ | Blend  

@@ -29,21 +29,20 @@ Want to find out more about our publishing, get help using our products, or just
 ### Write us...
 
 <div class="form">
-    <form name="contactform" method="POST" action="thanks.html">
-        <?php include 'form.php';?>
+    <form action="https://getform.io/f/1003cb49-edc3-4dca-9c2c-456328bd412c" method="POST">
         <div class="form-row">
             <div class="form-group col-lg-6" id="name">
                 <input type="text" class="form-control" placeholder="name" required="True" name="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
             </div>
             <div class="form-group col-lg-6" id="tel">
-                <input type="tel" class="form-control" placeholder="Telephone" name="tel" data-rule="minlen:10" data-msg="Please enter a valid mobile no">
+                <input type="email" class="form-control" placeholder="Email" name="email" data-rule="minlen:10" data-msg="Please enter a valid email address">
             </div>
             <div class="form-group col-lg-6" id="mail">
-                <input type="email" class="form-control" placeholder="Email" name="email" data-rule="email" data-msg="Please enter a valid email">
+                <input type="phone" class="form-control" placeholder="Phone" name="phone" data-rule="phone" data-msg="Enter your phone (with country code)">
             </div>
         </div>
         <div class="form-group">
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your message" name="message" data-rule="minlen:2" data-msg="Please write something for us"></textarea>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your message" input type="text" name="message" data-rule="minlen:2" data-msg="Please write something for us"></textarea>
         </div>
         <div class="text-center"><button type="submit"  id="button" name="submit" title="Send Message">Send Message</button></div>
     </form>

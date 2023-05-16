@@ -1,0 +1,11 @@
+classes = [
+    'd-flex',
+    'dropdown-center',
+    'end-0',
+    'mx-auto',
+    'p-2',
+    'position-absolute',
+    'start-0',
+    'text-center',
+    'text-decoration-none',
+]

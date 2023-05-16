@@ -1,5 +1,5 @@
 ---
-title: "Sello Oil Price in Altoona PA"
+title: "Sello Oil Price in Altoona PA on 28 Mar 2021"
 date: "2021-03-28"
 categories: 
   - "business"

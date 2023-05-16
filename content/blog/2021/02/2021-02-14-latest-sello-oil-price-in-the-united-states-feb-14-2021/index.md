@@ -17,6 +17,8 @@ tags:
   - "usa"
 ---
 
+## Sello oil Price in the United States Feb 14, 2021
+
 | **As of 2/14/21** | **Heating Oil** | **Blend** | **Kerosene** | **Dyed ULSD (Off-Road)** |
 | --- | --- | --- | --- | --- |
 | **100 Gallon Minimum** | **2.23** | **2.53** | **2.83** | **2.23** |

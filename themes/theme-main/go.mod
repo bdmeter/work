@@ -1,4 +1,4 @@
-module github.com/hbstack/work
+module github.com/hbstack/theme
 
 go 1.19
 

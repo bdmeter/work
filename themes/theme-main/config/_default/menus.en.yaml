@@ -38,7 +38,7 @@ main:
 
   - name: Discussion
     parent: support
-    url: https://github.com/orgs/hbstack/discussions
+    url: https://github.com/orgs/bdmeter/discussions
     weight: 12
     params:
       icon:
@@ -49,7 +49,7 @@ main:
 
   - name: Bug Report
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs
+    url: https://github.com/orgs/bdmeter/discussions/new?category=issues-and-bugs
     weight: 13
     params:
       icon:
@@ -60,7 +60,7 @@ main:
 
   - name: Feature Request
     parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=ideas
+    url: https://github.com/orgs/bdmeter/discussions/new?category=ideas
     weight: 14
     params:
       icon:

@@ -1,0 +1,52 @@
+/*! purgecss start ignore */
+@import "../../../../mods/bigger-picture/bigger-picture";
+
+.bp-wrap {
+    z-index: 1100;
+}
+
+img {
+    cursor: zoom-in;
+}
+
+a {
+    img {
+        cursor: pointer;
+    }
+}
+
+.bp-panel {
+    height: fit-content;
+    width: fit-content;
+    top: 0.75rem;
+    z-index: 1;
+
+    .bp-panel-action {
+        align-items: center;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 0.5rem;
+        color: white;
+        display: flex;
+        margin: 0 0.25rem;
+    }
+}
+
+.bp-panel-share {
+    .dropdown-menu {
+        min-width: 1px;
+    }
+}
+
+.bp-panel-rotate-anticlockwise {
+    svg {
+        transform: scaleX(-1);
+    }
+}
+
+.bp-panel-play {
+    &.active {
+        background: var(--#{$prefix}primary);
+    }
+}
+
+/*! purgecss end ignore */

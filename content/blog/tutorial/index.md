@@ -4,7 +4,7 @@ title: "Bdmeter"
 date: 2023-03-31T11:47:31+08:00
 draft: false
 description: Global industry update. Learn more about industry with us.
-noindex: false
+index: true
 pinned: true
 nav_weight: 1000
 # nav_icon:
@@ -43,4 +43,4 @@ Real-time information of industry and technology.
 **Our Address:  
 **22 W 34th St, 301, New York, NY 10001, US
 
-![](images/image.png)z
+![](images/image.png)
