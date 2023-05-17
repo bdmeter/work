@@ -1,7 +1,7 @@
 baseURL: https://bdmeter.info
 title: Bdmeter
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [GOISP](https://goisp.net). All Rights Reserved."
+copyright: "Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
 disqusShortname: bdm-site

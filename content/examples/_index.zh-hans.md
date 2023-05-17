@@ -1,5 +1,5 @@
 ---
-title: Bdmeter Card
+title: Bdmeter New
 menu:
   main:
     weight: 3
@@ -8,3 +8,4 @@ menu:
         vendor: bs
         name: card-list
 ---
+
