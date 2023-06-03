@@ -48,13 +48,16 @@ tags:
   - "writing-operating-procedures"
 ---
 
-A **Standard Operating Procedure** or **[SOP](https://en.wikipedia.org/wiki/Standard_operating_procedure#:~:text=A%20standard%20operating%20procedure%20(SOP,to%20comply%20with%20industry%20regulations.)** means is structured documentation that provides step-by-step guidelines and instructions on how to do a particular business activity, such as production or record keeping. We need SOP in a company with different operations in different areas.
 
-## Example of business operating procedure manual:
+## Standard operating procedures (SOP) of a garment idustry 
+
+A Standard Operating Procedure or SOP means is structured documentation that provides step-by-step guidelines and instructions on how to do a particular business activity, such as production or record keeping. We need SOP in a company with different operations in different areas.
+
+### Example of business operating procedure manual:
 
 Standard operating procedures or SOP needs to develop as a structured documented office word or pdf file and manual printed copy for management approval. These procedures also need to approve by international verification companies like SGS, Intertek, Bureau Veritas, etc. The motto of developing a standard manual is to implement all standard procedures in every simple step in the factory or workplace. And finally, need to implement and follow all procedures written in the manual Company responsible personnel need to maintain all written SOP. SOP Auditor will verify all standard procedures are maintaining regarding policies and submit monthly or yearly reports to company top management. A standard procedures manual can change from time to time regarding the way of work system and supply chain. Today we will show you a written structured copy of the STANDARD OPERATING PROCEDURE SOP MANUAL of a small business. By this SOP manual copy, you can understand then how to create your own company written standard operating procedures step-by-step and a systematic way to implement and maintain this.
 
-## **A Small Business Standard Operating Procedure**
+## A garment factory Standard Operating Procedure
 
 Document type: Standard operating procedure (pdf, office word)  
 Business Category: Manufacturing  
@@ -63,27 +66,26 @@ Operating manual standard: International
 Approve by: ISO  
 Area of implementation: Garment Sewing & finishing section operating manual
 
-**Index of SOP manual of Garment Sewing and Finishing:**
+## Index (Garment Sewing and Finishing):
 
 <table class="has-fixed-layout"><tbody><tr><td><strong>Serial no.</strong></td><td><strong>machine title</strong></td></tr><tr><td>1 Vision statement</td><td>3</td></tr><tr><td>2 Mission statement</td><td>3</td></tr><tr><td>3 Policy statement</td><td>3</td></tr><tr><td>4 Vision and latitude</td><td>3</td></tr><tr><td>5 Organogram of Maintenance Department</td><td>4</td></tr><tr><td>6 Working instructions of the Machine installation and production maintenance</td><td>5-8</td></tr><tr><td>7 Different types of machine problem and corrective actions</td><td>9-22</td></tr><tr><td>8 Standard work procedure</td><td>23</td></tr><tr><td>8.1 Electrical equipment</td><td>23-26</td></tr><tr><td>8.2 Generator</td><td>26-29</td></tr><tr><td>8.3 Boiler</td><td>29-33</td></tr><tr><td>8.4 Air conditioner&nbsp;</td><td>33-35</td></tr><tr><td>8.5 Compressor&nbsp;</td><td>35-36</td></tr><tr><td>8.6 Plumber</td><td>36</td></tr><tr><td>8.7 Welder</td><td>37</td></tr><tr><td>9 Immunological/Preventive Management</td><td>38</td></tr><tr><td>9.1 Sewing machine</td><td>38-52</td></tr><tr><td>9.2 Electrical equipment</td><td>53-57</td></tr><tr><td>10 Job description</td><td>58</td></tr><tr><td>10.1 Manager</td><td>58</td></tr><tr><td>10.2 Assistant Manager</td><td>58</td></tr><tr><td>10.3 Mechanics</td><td>59</td></tr><tr><td>10.4 Mechanics In charge</td><td>60</td></tr><tr><td>10.5 Senior Mechanics in charge</td><td>61</td></tr><tr><td>10.6 Electrician&nbsp;</td><td>61-62</td></tr><tr><td>10.7 Generator operator</td><td>62</td></tr><tr><td>10.8 Boiler operator</td><td>62-63</td></tr><tr><td>10.9 Compressor operator</td><td>63</td></tr><tr><td>10.10 Plumber&nbsp;</td><td>63-64</td></tr><tr><td>10.11 Welder</td><td>64</td></tr></tbody></table>
 
-Index of Course - A garment industry standard operating procedure
 
-1. **Vision statement:**
+## 1. Vision statement:
 
 The garment industry has a friendly work environment, self-convinced workers, modern technology, and management authority promise to introduce as a dependable and best garments manufacturer. We are always concerned about betterment, growth up and expand our business for Buyers and Employers profit.
 
-2. **Mission statement:**
+## 2. Mission statement:
 
 The garment industry is always committed to meet the Buyer's requirements through gradual quality improvement, punctuality, and ethical materials pricing. We invest our Experts, Modern Machines and Materials to produce lofty products and fixed our mind to achieve our target very carefully.
 
 Our quality system is established to achieve our goal. We have modern types of machinery, machine maintenance systems, and maintenance manuals. All maintenance policies, machines defect & proper solutions, generator, boiler maintenance system, preventive & corrective actions, and maintenance manuals are being described consecutively. 
 
-3. **Maintenance policy:**
+## 3. Maintenance policy:
 
 A garment industry is committed to satisfy the buyer to produce qualified garments and gradual quality improvements.
 
-4. **Vision and latitude:**
+## 4. Vision and latitude:
 
 The garment industry is always committed to meet buyers’ requirements. Maintenance Manual has a maintenance department and all other machine maintenance procedures which will help to meet buyer requirements through guaranteeing higher productivity and excellent quality.
 
@@ -91,26 +93,26 @@ The garment industry is always committed to meet buyers’ requirements. Mainten
 
 Standard operating procedure (SOP) - Garment Industry
 
-**5\. Organogram:**  
+## 5. Organogram:  
 Here you need to attach your company organogram of your sewing and finishing department to identify each workspace to implement standard operating procedures.
 
 ![](images/organogram.png)
 
 Fig: Organogram model
 
-6\. **Standard operating manual of Machine installation and production procedures:**
+## 6. Standard operating manual of Machine installation and production procedures:
 
-**6.1 Vision and latitude:**
+### 6.1 Vision and latitude:
 
 To maintain required quality and productivity with higher efficiency ensures the best result. To take preventive and corrective actions with creativity according to the root cause analysis. 
 
-**6.2 Responsibility:**
+### 6.2 Responsibility:
 
 Maintenance Manager is responsible for the whole department’s activities and Maintenance Supervisors are his coworkers. They are responsible for all corrective and preventive actions.
 
-**6.3 Procedures:**
+### 6.3 Procedures:
 
-**6.3.1 New machines installation procedure:** 
+#### 6.3.1 New machines installation procedure: 
 
 **6.3.1.1** Read the assembly instructions manual received from the supplier to familiarize the machine parts, table assembly instructions, belt installations, electrical wiring diagram etc.  
 
@@ -146,7 +148,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 
 **6.3.3.8** Maintenance Supervisor will attach the correct folder with the machine and use the correct elastic, fabric, piping etc. Then compare with the approved sample and make it clear to the Maintenance and Production officer. Maintenance and Production officers will issue the piping fabrics.
 
-**6.3.4 Production manual:**
+#### 6.3.4 Production manual:
 
 **6.3.4.1** Machine operators will turn on the Red light due to random quality issues like puckering, thread breaking, skipping, oil spot, dirty spot etc. during the production period. Maintenance officers will be aware to see this Red light.
 
@@ -154,7 +156,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 
 **6.3.4.3** Maintenance officers will take help from their seniors if they are unable to meet the quality requirements. If unable to meet the quality, then he will take help from High officials (PM, GM, Technical Manager).
 
-**6.3.5 Layout:** 
+#### 6.3.5 Layout:
 
 **6.3.5.1** Production officers will provide the layout documents to the Maintenance Mechanics and Maintenance Mechanics will follow the layout directions to fix the right pressure foot and T-Guide.
 
@@ -170,7 +172,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 
 **6.3.6.2** Servicing record, service card and maintenance signature will be noted in the Service register.
 
-**6.3.7 Preventive maintenance procedures:**
+#### 6.3.7 Preventive maintenance procedures:
 
 **6.3.7.1** Maintenance Manager will provide a preventive maintenance time schedule for every three month having maintenance manual and time limit.
 
@@ -182,7 +184,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 
 **6.3.7.5** Machines preventive maintenance job will be noted on machine card, machine registration book and care card.
 
-**6.3.8 Machine defects identification procedure:**
+#### 6.3.8 Machine defects identification procedure:
 
 **6.3.8.1** Every worker will turn on the red light for defective machines during the production period and Maintenance Supervisors will notice the red light for urgent action. Sewing Supervisors tasks name, operator’s name, line number and machine stoppage time will be noted on Machine defects Register.
 
@@ -192,11 +194,11 @@ Maintenance Manager is responsible for the whole department’s activities and M
 
 **6.3.8.4** Maintenance Manager or Maintenance Head will receive the register every morning and they will keep all of that information.
 
-**7\. Different types of machine defects and corrective actions procedures:**
+## 7. Different types of machine defects and corrective actions procedures:
 
-**General problems of sewing machine:**
+### General problems of sewing machine:
 
-- Problem during sewing period:
+#### Problem during sewing period:
 
 - Skip stitch
 - Broken stitch
@@ -208,7 +210,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Body weaving problem
 - Half stitch
 
-- Auto machines problem (Machine stoppage problem)
+#### Auto machines problem (Machine stoppage problem)
 
 - Servo Motor problem
 - Power board problem
@@ -217,7 +219,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Power regulator board of paddle
 - Error signal problem
 
-- Common problems of normal and auto machine:
+#### Common problems of normal and auto machine:
 
 - Rotary hook problem
 - Looper problem
@@ -231,7 +233,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Needle clamp holder problem
 - Needle plate screw problem
 
-- Steam Iron problem:
+#### Steam Iron problem:
 
 - Steam line jam
 - Handle problem
@@ -240,9 +242,9 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Bulb screw problem
 - Junction nipples problem
 
-**Skip stitch removal manual:**
+### Skip stitch removal manual:
 
-- Reasons behind skip stitch:
+#### Reasons behind skip stitch:
 
 - stingless needle head
 - Loose  tension or excess fixed tension also creates problem
@@ -251,7 +253,7 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Correct needle isn’t attached to the correct machine. For example, a U.Y (TON) 128 type needle is needed for a Flat Lock machine. Other measurements will be changed for needle changes.
 - Skip stitch occurs in case of improper quality of yarns.
 
-- Preventive solution:
+__Preventive solution:__
 
 - Attach the accurate needle according to the machine specification during needle change.
 - Check the yarn tension
@@ -261,9 +263,9 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Check the looper guide is correct or not. Take corrective actions if looper guide attachment is incorrect.
 - Check the needle guard and take corrective actions for incorrect attachments.
 
-**Broken stitch removal manual:**
+### Broken stitch removal manual:
 
-- Reasons behind broken stitch:
+__Reasons behind broken stitch:__
 
 - Helper cuts the sewing stitch during thread cutting.
 - Operator cuts the sewing stitch with the machine's manual knife during thread cutting after sewing operation.
@@ -272,44 +274,46 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Incorrect stitch attachment during sewing period.
 - Broken stitch is also occurring for excess tension during Quality inspection and Body checking.
 
-- Preventive solution:
+__Preventive solution:__
 
 - Helpers will need to be more cautious during the excess thread cutting period for not to cut the correct stitch.
 - Operators need to be more cautious to move the body under the needle after sewing operation.
 - Attaching the stitch pair in a corrective way.
 - The Quality Inspector checks the garments in the correct way with the right tension.
 
-**Loose stitch removal **manual**:**
+### Loose stitch removal manual:
 
-- Reasons behind Loose stitch:
+__Reasons behind Loose stitch:__
 
 - Machine tension isn’t correct according to the type of fabric.
 - Loose stitch increases during a new Layout.
 - Improper releases of yarn from thread camp.
 
-- Preventive solutions:
+__Preventive solutions:__
 
 - Maintain proper machine tension according to the fabrics type.
 - Check the thread camp and adjust the correct measurement if incorrect.
 - Check every machine during layout and resolve the problems if found.
 
-**Hard stitch removal **manual**:**
+### Hard stitch removal manual:
 
-- Reasons behind hard stitch:
+__Reasons behind hard stitch:__
+
     - Excess tight tension of thread
     - Higher spring tension
     - Rusty disc of tension post
     - Improper adjustment of thread cam.
-- Preventive solutions:
+
+__Preventive solutions:__
 
 - Right thread tension
 - Right spring tension
 - Clean the rust from the disc of tension post.
 - Adjust the thread cam.
 
-**Needle broken removal **manual**:**
+### Needle broken removal manual:
 
-- Reasons behind broken needle:
+__Reasons behind broken needle:__
 
 - Needle plate hole isn’t in the center position.
 - Incorrect looper and needle clearance
@@ -318,7 +322,8 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Improper operators handling
 - Incorrect attachment of button catch up in button attaching machine
 - Incorrect moving ways of looper (looper aboding).
-- Preventive solution:
+
+__Preventive solution:__
 
 - Centralize the needle hole
 - Correct the looper and needle clearance.
@@ -327,51 +332,52 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Give proper training to the operator about machine handling.
 - Correct the looper moving ways (looper aboding) 
 
-**Feed Dog problem removal **manual**:**
+### Feed Dog problem removal manual:
 
-- Reasons behind Feed Dogs problem:
+__Reasons behind Feed Dogs problem:__
 
 - Adjustable screws of Feed Dogs getting higher occur shiny marks in the garments. Adjustable screw getting down for low GSM fabrics stitching and screw getting little bit up for high GSM fabrics stitching. Need to take necessary actions to feed the dog's problem.
 - Due to improper adjustment of Bari able screws occur to feed dogs. Bari able screw is used to up and down the feed dog.
 - Excess feed dog tension or incorrect feed dog adjustment causes problems. Due to those problems sharing occurs in the body. Although mismatch the body measurements in some cases due to feed dogs problem.
 
-- Preventive solutions:
+__Preventive solutions:__
 
 - Adjust the feed dog in the correct position with an adjustable screw for good quality without any shiny marks.
 - Adjust the Variable screw properly.
 - Feed dogs tension must be set in a proper way.
 
-**Body sharing/squeezing removal **manual**:**
+### Body sharing/squeezing removal manual:
 
-- Reasons behind sharing/squeezing:
+__Reasons behind sharing/squeezing:__
 
 - Incorrect tension of feed dog.
 - Improper machine handling
 - Incorrect feed dog position.
 - Folder jam occurs squeezing in garments.
 - Excess pressure in pressure foot for incorrect pressure regulator adjustment.
-- Preventive actions:
+
+__Preventive actions:__
 
 - Adjust the Feed Dog’s tension properly.
 - Proper machine handling.
 - Adjust the Feed Dog level properly.
 
-**Body waving removal **manual**:**
+### Body waving removal manual:
 
-- Reasons behind body waving:
+__Reasons behind body waving:__
 
 - Excess pressure in pressure foot for incorrect pressure regulator adjustment.
 - Lower position of feed dog than correct position.
 - Improper handling of garments during sewing.
 - Excess higher position of variable feed dog.
 
-- Preventive solutions:
+__Preventive solutions:__
 
 - Adjust the presser foot regulator in the correct position.
 - Feed dog position must be set at the correct level.
 - Operators should be more conscious about waving during the handling period.
 
-**Auto machines problem: (reasons behind auto machine stoppage)**
+#### Auto machines problem: (reasons behind auto machine stoppage)
 
 - Servo Motor problem
 - Power board problem
@@ -380,29 +386,29 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Paddles Power regulator board problem
 - Error problem
 
-- **Servomotors problem:**
+**Servomotors problem:**
 
-**Servo Motor problems removal **manual**:**
+### Servo Motor problems removal manual:
 
-- Reasons behind servo motor problem:
+__Reasons behind servo motor problem:__
 
 - Broken magnet of servo motors rotor. 
 - Encoders circuit problem
 - Servomotors sensor problem
 - Speed controller’s problem.
 
-- Corrective actions:
+__Corrective actions:__
 
 - New servo motor setting required if defective servo motor is not works properly after rotor magnet repair.
 - New Encoder circuit setting required if defective circuits do not work after rectification. 
 - Change the sensor if a problem is found.
 - Take remedial actions according to error number.
 
-- **Power board problem:**
+**Power board problem:**
 
-**Power board problems removal **manual**:**
+### Power board problems removal manual:
 
-- Reasons behind power boards problem:
+__Reasons behind power boards problem:__
 
 - Improper power supply from power board to machine part 
 - Due to any defective device of the power board also occurring problems.
@@ -411,7 +417,8 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Excess heat generation from power board.
 - Short circuit
 - Dust 
-- Corrective actions:
+
+__Corrective actions:__
 
 - Follow-up the error code and find out the solutions of error code from the manual book.
 - Need to repair or new power board setup for Error 7 or No Power problem.
@@ -420,29 +427,30 @@ Maintenance Manager is responsible for the whole department’s activities and M
 - Check the circuit properly. Need proper attention about short circuits which are not considerable in any situation.
 - Clean the power board dust properly.
 
-- **Synchronizer problem:**
+**Synchronizer problem:**
 
 **Machine Synchronizer problem and corrective action procedures:**
 
-- Reasons behind Synchronizer problem:
+__Reasons behind Synchronizer problem:__
 - Damages any device of Synchronizer circuit.
-- Corrective actions:
+
+__Corrective actions:__
 
 - Need proper experimentation to find out the actual problem of Synchronizer circuit.
 - If the problem is not solved, then contact the machine supplier for further necessary action.
 - If the Synchronizer is not repairable, then manage the new synchronizer.
 
-**Lighting system in sewing floor for machines problem & solution:**
+### Lighting system in sewing floor for machines problem & solution:
 
 There are two Mechanics lights (small lights) in every top of the sewing machine at every line of all floors. One light is green and the other is red. Every Red light is connected with Maintenance rooms nine light. Every sewing floor has nine lines which are connected with the Maintenance rooms nine light. One Maintenance light for one sewing line. If problems occur in a sewing machine at any line, then turn on a light in the Maintenance room. Machine operator will turn on the red light for machine problems and the operator will stop his/her operation (defective machine causes bad quality garments). A light is turned on in the Maintenance room due to the switch on the red light. Mechanics can understand sewing lines problems to see the light and he resolves the machine problem immediately.
 
 Yellow light is only for the Supervisor to resolve the machine's problem or for proper direction. Example: thread cut, needle problem, bad quality garments, cut panel problem, input problem etc. Supervisor will resolve those problems to see the green light. If he is unable to provide a solution, then he will inform Line Chief, PM, GM gradually.
 
-**Operation procedure of Metal Detector machine & broken needle handling in garments manufacturing:**
+### Operation procedure of Metal Detector machine & broken needle handling in garments manufacturing:
 
 Garment manufacturing is fully connected with sewing machines. Needles are a tiny part of sewing machines. Sometimes the needle is broken during the sewing operation and the broken parts of the needle are lost. Broken parts of the needle inside the garments are a critical issue and claim from the Buyer's side is a compulsory matter for that issue. In that case, the operator must collect the broken needle parts to provide it to the Needle Operator. If he/she is unable to find all the broken needle parts, then use the magnet collected from the needle operator to find all the tiny needle parts. If he/she fails to find it, then she/he must return the magnet to the needle man. After that, he/she needs to collect the N.D.C-08 number form from Needle man and fill-up the form with the Supervisor's signature. Then he/she will take all the garments from the table to the Metal Detector room and check out the garments properly with the signature of the N.D.M operator in N.D.C08 form. If the needle detector machine operator (N.D.M) found any broken needle inside any garments during checking, he (N.D.M) must keep those garments in a requisition box (never give those broken parts to the sewing operator). Without any needle parts inside the garments, the operator must take those garments in line and will start his/her work again.
 
-1. **Cutting machines problem:**
+#### 1. Cutting machines problem:
 
 - Center knife problem
 - Sharpening problem
@@ -573,7 +581,7 @@ Solutions:
 
 **Big/Special machineries problems and corrective actions:**
 
-**Fusing machines problem:**
+#### Fusing machines problem:**
 
 Different types of problems found in fusing machines. These are given below:
 
@@ -605,7 +613,7 @@ Solutions:
 - Change the motherboard
 - Change the inverter
 
-**Metal detector machine:**
+#### Metal detector machine:
 
 Metal detector machine problems are given below:
 
@@ -624,7 +632,7 @@ Solutions:
 - Set the correct amount of metal detection value.
 - Change the parts after checking
 
-**Fusing machine:**
+#### Fusing machine:
 
 Problems of fusing machine:
 
@@ -641,7 +649,7 @@ Solutions:
 - Correct temperature and pressure.
 - Change the defective parts after checking. For an example-change the broken or loose belt.
 
-**Spreading machine:**
+#### Spreading machine:
 
 Spreading machines problem:
 
@@ -659,7 +667,7 @@ Solutions:
 - Change the knife and correct pressure.
 - Proper machine calibration
 
-**Eyelet holing machine:**
+#### Eyelet holing machine:
 
 Eyelet machine problems: (during operation)
 
@@ -681,7 +689,7 @@ Solutions:
 - Adjust looper, spreader and needle correctly.
 - Handle the machine knife very carefully because a broken stitch occurs from the machine knife.
 
-**8.1 maintenance system of electrical equipment:** 
+### 8.1 maintenance system of electrical equipment:*
 
 **Daily operation procedure of Maintenance department:**
 
@@ -800,9 +808,9 @@ Power on/ off manual of factory during opening and closing:
 - Then Turn off the main M.C.C.B.
 - After that moving around the floor to observe the power switch or M.C.B is on/off. 
 
-**8.2 Generator maintenance system:**
+## 8.2 Generator maintenance system:
 
-Generator maintenance manual-
+### Generator maintenance manual-
 
 1. Vision: To confirm continuous electricity supply
 2. Latitude: Generator and related machineries, A garment industry.
@@ -896,11 +904,13 @@ N.B.: above 24,25,26,27 and 28 no. procedures for keeping water well into the wa
 24. Preventive Maintenance of Gas generator will be done on an every 1000 hour later and for Diesel generator on an every 250 hour later.
 25. Overhauling will occur every 20000 to 22000 hour later.
 
-**8.3 Boiler Maintenance manual:**A garment industry has two type of boiler
+### 8.3 Boiler Maintenance manual:
 
-1\. 640 KG Boiler (HERTZ BOILER): Registration Number-BA:B:5374
+A garment industry has two type of boiler
 
-2\. 500 KG Boiler (Modern Erection Limited): Registration number-BA:B:3853
+1. 640 KG Boiler (HERTZ BOILER): Registration Number-BA:B:5374
+
+2. 500 KG Boiler (Modern Erection Limited): Registration number-BA:B:3853
 
 **Vision:** Continuous steam supply in sewing floor.
 
@@ -1034,7 +1044,7 @@ Temperature correction: Boiler feed water temperature will be counted with a Tem
 25. Shutdown the Boiler room’s doors, Bdmeter correctly and leave that workplace with a card punch. 
 26. Modern Erection the boiler supplier will provide their service every two month later.
 
-**8.4 Air Conditioner Maintenance manual:**
+### 8.4 Air Conditioner Maintenance manual:
 
 Responsible Technician has to present his workstation 10-15 minutes before the office starts. 
 
@@ -1090,7 +1100,7 @@ On the other hand, indoor and outdoor board, fan and capacitor problems can occu
 
 Table: Gas pressure
 
-**8.5 Compressor maintenance manual:**
+### 8.5 Compressor maintenance manual:
 
 Responsible person: Compressor operator
 
@@ -1117,7 +1127,7 @@ Procedure:
 9. Necessary maintenance procedures continue within schedule time.
 10. Turning off all machines, vulbs, dyer etc. before leave.
 
-**8.6 Plumbers working procedures:**
+### 8.6 Plumbers working procedures:
 
 Responsible person: Plumber
 
@@ -1136,7 +1146,7 @@ Work description:
 9. That is to say, Plumber will do everything repairing related to the pipeline.
 10. Turning off all machines, motor switches, bulbs etc. before leaving.
 
-**8.6 Welders working manual:**
+### 8.6 Welders working manual:
 
 Responsible person: Welder
 
@@ -1158,9 +1168,9 @@ Work description:
 12. Box making
 13. Partition making etc.
 
-**9.0 Preventive Management**
+### 9.0 Preventive Management\
 
-**9.1 Preventive maintenance (Sewing machine):**
+#### 9.1 Preventive maintenance (Sewing machine):
 
 General servicing:
 
@@ -1168,7 +1178,7 @@ General servicing:
 
 Table: Garment sewing machine maintenance
 
-**Preventive Maintenance (Sewing machine):**
+#### Preventive Maintenance (Sewing machine):
 
 1. Preventive Maintenance frequency of sewing machine according to time schedule given below:
     1. Knit-1: Daily 8 pcs machine maintenance and 50 days for total floors machine maintenance.
@@ -1260,7 +1270,7 @@ Unit:                                                  
 
 Table: Monthly maintenance audit checklist
 
-**9.2 Electric supply accuracy assessment manual:**
+### 9.2 Electric supply accuracy assessment manual:
 
 1. Every floors electricity supply level follow up procedure:
 
