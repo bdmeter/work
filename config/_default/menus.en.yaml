@@ -38,7 +38,7 @@ main:
 
   - name: Discussion
     parent: support
-    url: https://github.com/ronibd0/bdmeter.info/discussions
+    url: https://github.com/orgs/bdmeter/discussions
     weight: 12
     params:
       icon:

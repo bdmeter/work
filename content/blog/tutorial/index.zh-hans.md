@@ -33,7 +33,6 @@ images:
 #         color: '#e24d0e'
 authors:
   - Bdmeter
-  - Mark-Weber
 ---
 
 Real-time information of industry and technology.

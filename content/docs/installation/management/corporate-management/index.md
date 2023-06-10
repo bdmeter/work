@@ -12,7 +12,7 @@ tags:
 images:
 featured: true
 authors:
-  - Mark Weber
+  - Bdmeter
 ---
 
 Learn about installation of corporate management for your business
