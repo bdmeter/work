@@ -35,10 +35,6 @@ Offering or furnishing of professional services such as environmental analysis, 
 
 ### You may like
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6173503627170942" crossorigin="anonymous"></script>
-
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-
 All documents intended for use in construction are required to be prepared and administered in accordance with the standards of reasonable skill and diligence of the profession. Care must be taken to reflect the requirements of country and state statutes and county and municipal building ordinances. In as much as architects are licensed for the protection of public health, safety, and welfare, documents prepared by architects must be of such quality and scope and be so administered  
 as to conform to professional standards.
 
