@@ -10,7 +10,7 @@ tags:
   - "building-analysis"
   - "system-analysis"
   - "selection-of-components"
-images:
+  
 ---
 
 Systems design comprises a logical series of steps that leads to the best decision for a given set of conditions. The procedure requires:

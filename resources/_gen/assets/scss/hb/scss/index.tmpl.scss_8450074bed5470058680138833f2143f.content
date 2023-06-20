@@ -9731,46 +9731,6 @@ h6:hover .anchor,
      object-fit: cover;
   max-height: 480px; }
 
-/*! purgecss start ignore */
-.snackbars {
-  position: fixed;
-  top: 50%;
-  left: 50%; }
-
-.snackbar {
-  background: #323232;
-  border-radius: 0.25rem;
-  color: white;
-  margin: 0.25rem;
-  padding: 0.5rem 1rem; }
-
-/*! purgecss end ignore */
-/*! purgecss start ignore */
-.hb-back-to-top {
-  background: transparent;
-  border: none;
-  bottom: 1rem;
-  color: var(--hb-body-color);
-  opacity: 0;
-  padding: 0;
-  position: fixed;
-  right: 1rem;
-  transition: opacity 0.5s;
-  z-index: -1; }
-  .hb-back-to-top.scrolling {
-    bottom: 100%;
-    color: var(--hb-primary-text-emphasis);
-    transition: bottom 1s; }
-  .hb-back-to-top.show {
-    opacity: 1;
-    z-index: 1000; }
-  .hb-back-to-top:hover {
-    color: var(--hb-primary-text-emphasis); }
-
-.hb-back-to-top-icon {
-  display: flex; }
-
-/*! purgecss end ignore */
 .hb-breadcrumb {
   --hb-breadcrumb-margin-bottom: 0;
   --hb-breadcrumb-divider: "";
@@ -9815,6 +9775,46 @@ h6:hover .anchor,
         .hb-breadcrumb .breadcrumb-item:not(:first-child):not(:last-child)::after {
           content: "...";
           margin-top: -0.5rem; } }
+/*! purgecss start ignore */
+.snackbars {
+  position: fixed;
+  top: 50%;
+  left: 50%; }
+
+.snackbar {
+  background: #323232;
+  border-radius: 0.25rem;
+  color: white;
+  margin: 0.25rem;
+  padding: 0.5rem 1rem; }
+
+/*! purgecss end ignore */
+/*! purgecss start ignore */
+.hb-back-to-top {
+  background: transparent;
+  border: none;
+  bottom: 1rem;
+  color: var(--hb-body-color);
+  opacity: 0;
+  padding: 0;
+  position: fixed;
+  right: 1rem;
+  transition: opacity 0.5s;
+  z-index: -1; }
+  .hb-back-to-top.scrolling {
+    bottom: 100%;
+    color: var(--hb-primary-text-emphasis);
+    transition: bottom 1s; }
+  .hb-back-to-top.show {
+    opacity: 1;
+    z-index: 1000; }
+  .hb-back-to-top:hover {
+    color: var(--hb-primary-text-emphasis); }
+
+.hb-back-to-top-icon {
+  display: flex; }
+
+/*! purgecss end ignore */
 /*! purgecss start ignore */
 .tooltip {
   --hb-tooltip-zindex: 1080;

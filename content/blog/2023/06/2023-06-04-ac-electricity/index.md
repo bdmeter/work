@@ -16,7 +16,7 @@ tags:
   - "capacitors"
   - "resistors"
   - "inductors"
-images:
+
 ---
 
 ## Introduction
@@ -292,3 +292,4 @@ This article introduces the basic passive components in ac electricity. The main
 7. The generation of magnetic fields in straight conductors and coils and how the flux fields are enhanced by the reduction of resistance to the magnetic fields using iron cores
 8. Tight magnetic coupling between coils and how this is used in transformers
 9. Motion caused by attractive and repulsive magnetic fields and how this is used in meter movements
+

@@ -1,8 +1,6 @@
 ---
 title: "Youtube marketing cource CPA marketplace online"
 date: 2023-04-06T01:44:59+08:00
-draft: false
-layout: landing
 categories:
     - "Digital marketing"
 author:

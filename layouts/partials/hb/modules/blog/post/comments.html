@@ -1,0 +1,44 @@
+{{- if default true .Params.comments }}
+  {{- partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-post-comments-begin" "Page" .) }}
+  <div id="content-comments" class="hb-blog-post-comments mb-5">
+
+    <div class="hb-blog-post-comments">
+     
+        <div class="fb-comments" 
+          data-href="https://developers.facebook.com/docs/plugins/comments#configurator" 
+          data-width="" 
+          data-numposts="5"
+          data-order-by="reverse_time">
+        </div>
+    
+    </div>
+
+
+
+<br>
+
+    <div class="container-fluid container-lg px-4 px-md-3 text-body-secondary">
+      <div class="row">
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6173503627170942"
+            crossorigin="anonymous"></script>
+        <ins class="adsbygoogle"
+            style="display:block; text-align:center;"
+            data-ad-layout="in-article"
+            data-ad-format="fluid"
+            data-ad-client="ca-pub-6173503627170942"
+            data-ad-slot="8511319648"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    </div>
+
+
+
+
+    {{- partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-post-comments" "Page" .) }}
+  
+    
+  </div>
+  {{- partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-comments-end" "Page" .) }}
+{{- end }}

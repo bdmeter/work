@@ -1,8 +1,6 @@
 ---
 title: "3D colorful logo design"
 date: 2023-04-06T01:44:59+08:00
-draft: false
-layout: landing
 categories:
     - "Graphics Design"
 author:

@@ -1,0 +1,33 @@
+{{- $page := . }}
+<a
+  class="card-img-top overflow-hidden border border-secondary-subtle text-body text-decoration-none mt-2"
+  href="{{ .RelPermalink }}">
+  {{- $img := "" }}
+  {{- with .Params.images }}
+    {{- $img = index . 0 }}
+  {{- else }}
+    {{- $res := partialCached "hb/functions/page-thumbnail" . . }}
+    {{- $default := site.Params.hb.blog.post_thumbnail_default }}
+    {{/* Get the default thumbnail if set. */}}
+    {{- if and (not $res) $default }}
+      {{- $res = resources.Get $default }}
+    {{- end }}
+    {{- with $res }}
+      {{- $img = replace .RelPermalink $page.RelPermalink "" | printf "%s?height=360px" }}
+    {{- end }}
+  {{- end -}}
+  {{- with $img }}
+    {{ partial "images/image" (dict
+      "Page" $page
+      "Alt" $page.Title
+      "Filename" $img
+      "ClassName" "hb-blog-post-card-img"
+      "Original" false)
+    }}
+  {{- else }}
+    <div
+      class="hb-blog-post-card-img-none d-flex align-items-center justify-content-center">
+      {{- default site.Title site.Params.hb.blog.post_thumbnail_placeholder }}
+    </div>
+  {{- end }}
+</a>

@@ -14,7 +14,7 @@ tags:
   - "construction program manager"
   - "crew supervisors"
   - "superintendent"
-images:
+  
 ---
 
 Sconstruction under the traditional construction procedure is performed by contractors. While they would like to satisfy the owner and the building designers, contractors have the main objective of making a profit. Hence, their initial task is to prepare a bid price based on an accurate estimate of construction costs. This requires development of a concept for performance of the work and a construction time schedule. After a contract has been awarded, contractors must furnish and pay for all materials, equipment, power, labor, and supervision required for construction. The owner compensates the contractors for construction costs and services.
