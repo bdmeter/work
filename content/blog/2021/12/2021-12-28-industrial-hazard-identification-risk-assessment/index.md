@@ -23,7 +23,7 @@ tags:
 - HIRA should be contradicted at least once (1) per year
 - EHS risk assessment should include
 
-## Why we need Hazard Identification and Risk Assessment at Workplace Level?
+### Why we need Hazard Identification and Risk Assessment at Workplace Level?
 
 - As part of the key aspects of Risk Management, it aims to:-
 - Reduce the likelihood and consequence of a workplace incident that may result in injury or disease
@@ -36,7 +36,7 @@ tags:
 
 From: A.W. Heinrich, Industrial Accident Prevention: A Scientific Approach, McGraw Hill, NY 1931
 
-## The Iceberg Theory
+### The Iceberg Theory
 
 **Direct Costs (Obvious)**
 
@@ -54,7 +54,7 @@ From: A.W. Heinrich, Industrial Accident Prevention: A Scientific Approach, McGr
 - Negative publicity
 - Damage to customer relations
 
-## What Is a Hazard?
+### What Is a Hazard?
 
 **An act or condition that:**
 
@@ -62,7 +62,7 @@ From: A.W. Heinrich, Industrial Accident Prevention: A Scientific Approach, McGr
 - Violates laws;
 - Violates company policy, standards, or requirements.
 
-## Example Classification of Occupational Safety and Health Hazard
+#### Example Classification of Occupational Safety and Health Hazard
 
 <table><tbody><tr><td>Chemical</td><td>Physical</td><td>Biological</td><td>Ergonomic</td><td>Psychological</td><td>General Safety</td></tr><tr><td>Fumes Gases<br>Liquids<br>Particulate<br>Dusts<br>Vapors</td><td>Non ionizing<br>radiation (e.g lasers,<br>radio frequencies,<br>microwaves,<br>ultraviolet light)<br>Pressure Vibration<br>O2 deficiency</td><td>Insect (e.g, ants,bees,<br>scorpions, spiders,<br>mosquitoes)<br>Microbes (e.g, bacteria<br>(tuberculosis), parasites,<br>viruses (hepatitis B, HIV,<br>others))<br>Toxic plants (e.g, poison<br>oak)<br>Reptiles (e.g, drinking<br>water, hygiene facilities)<br>Small mammals (e.g,<br>dogs, rodents, skunks)<br>²Potentially violent people</td><td>Circadian rhytm (e.g,<br>shift work/ rest<br>cycles) Fatigue<br>(extended work hours)<br>¹Hand tools<br>²Manual material<br>handling (e.g,<br>biomechanics, lifting,<br>pushing, pulling,<br>carryng)<br>²Work station design<br>(e.g, dials, controls,<br>signals, labeling,<br>office (computer)<br>workstations)</td><td>Mental task<br>overload<br>Stress<br>(occupational and<br>non-occupational)<br>Substance abuse<br>Repetitive<br>physiological<br>Organization<br>behavior</td><td>¹Construction<br>¹Maintenance<br>¹Electrical<br>¹Emergencies<br>¹Enviromental<br>conditions<br>¹Fires/ explosion<br>¹Mechanical and<br>machinery systems<br>¹Motorized equipment<br>¹Pressurized systems<br>¹Fall protection<br>¹Motor vehicle<br>occupant safety</td></tr></tbody></table>
 
@@ -70,7 +70,7 @@ Note : All hazard must be addresses in employer’s overall safety and health pr
 ¹Employee safety health regulations adopted  
 ²Employee safety health regulation in development (1995)
 
-## METHODS TO IDENTIFY HAZARDS
+#### METHODS TO IDENTIFY HAZARDS
 
 - Review legislation & code of practices
 - Accident data
@@ -79,7 +79,7 @@ Note : All hazard must be addresses in employer’s overall safety and health pr
 - Inspections
 - JSA ( Job Safety Analysis) etc
 
-## What Is a Risk?
+### What Is a Risk?
 
 - Poorly managed or unmanaged hazards
 - The probability of a specific adverse effect to occur :
@@ -91,11 +91,11 @@ Note : All hazard must be addresses in employer’s overall safety and health pr
 
 ![](images/image-1.png)
 
-## DEFINITION: RISK ASSESSMENT
+#### DEFINITION: RISK ASSESSMENT
 
 RISK ASSESSMENT: A careful examination of what in the workplace, could cause harm to people, so that you can weigh up whether you have taken enough precautions or should do more to prevent harm. The aim is to make sure no-one gets hurt or becomes ill.
 
-## Risk Assessment
+#### Risk Assessment
 
 • Risk = Severity X Probability  
 • Risk shall be assessed  

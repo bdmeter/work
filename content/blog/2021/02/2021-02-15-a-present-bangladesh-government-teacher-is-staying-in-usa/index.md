@@ -27,9 +27,3 @@ Delwara Begum, the Headmaster of Kumarjani Government Primary School in Bawar, c
 If anyone from USA know about anything about this Teacher Tania Rahman, requested to contact here :
 
 info@bdmeter.info; sharon.lifung@gmail.com;
-
-Photo credit: Kalerkontho
-
-![](images/1945396.jpg)
-
-Missing Tania Rahman

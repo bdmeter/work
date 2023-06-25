@@ -29,20 +29,20 @@ Learn About Conflict Minerals US guidelines for vendor compliance and sustainabi
 - Reporting – CFSI
 - Beyond USA
 
-## **What are Conflict Minerals?** 
+## What are Conflict Minerals?
 
 ![](images/conflict-minerals.png)
 
 **[Conflict Minerals](https://commons.wikimedia.org/wiki/File:Conflict_minerals_curse_image_in_Congo.png)** refer to raw materials that come from a particular part of the world where conflict is occurring and trading of those materials, perpetuates the fighting. Conflict minerals are mined in conditions of armed conflict and human rights abuses, notably in the Democratic Republic of Congo.  
   
-The most commonly\* mined conflict minerals are:    
-1\. Cassiterite (for **Tin**)  
-2\. Wolframite (for **Tungsten**)  
-3\. Coltan (for **Tantalum**)  
-4\. **Gold**   
+The most commonly mined conflict minerals are:    
+1. Cassiterite (for **Tin**)  
+2. Wolframite (for **Tungsten**)  
+3. Coltan (for **Tantalum**)  
+4. **Gold**   
 They are also known altogether as **3TG** (**T**in, **T**ungsten, **T**antalum, **G**old).
 
-### **“Resource curse” countries**
+**“Resource curse” countries**
 
 **Resource countries** of conflict minerals are accounted for 25-30% of the world’s supply of tantalum and smaller % of other three minerals:
 
@@ -57,88 +57,78 @@ They are also known altogether as **3TG** (**T**in, **T**ungsten, **T**antalum, 
 - Uganda
 - Zambia
 
-- ![](images/curse-4.png)
-    
-- ![](images/curse-3.png)
-    
-- ![](images/curse-2.png)
-    
+- ![](images/curse-4.png)    
+- ![](images/curse-3.png)    
+- ![](images/curse-2.png)    
 - ![](images/curse-1.png)
     
 
 Conflict Minerals: Curse countries
 
-#### **HIRING PRACTICES**  
+### HIRING PRACTICES
 
-- **Gunpoint**
-- **Life threats**
-- **Physically forced**
-- **Mentally forced ( to protect themselves & family from militias)**
+- Gunpoint
+- Life threats
+- Physically forced
+- Mentally forced ( to protect themselves & family from militias)
 
-#### **WORKING CONDITIONS**
+### WORKING CONDITIONS
+- Unhealthy and difficult locations
+- Unsafe Tools
+- May lead to death
 
-- **Unhealthy and difficult locations**
-- **Unsafe Tools**
-- **May lead to death**
-
-## **Conflict Minerals funds wars**
-
-![](images/C:\Users\elenigeorgiopoulou\Pictures\Desktop\conflict_minerals_gun_flip_3.2e16d0ba.fill-1024x576-669x290.jpg)
+### Conflict Minerals funds wars
 
 **PEOPLE**: People are **forced** and **threatened** to mine under **extreme violence conditions**, and the money from minerals trade are used to buy weapons that perpetuate wars.
 
 ![](images/image.png)
 
-**Over 5,4 Million  
-Congo Civil Conflict  Deaths**
+**Over 5,4 Million Congo Civil Conflict  Deaths**
 
-## CONGO WAR Status
+### CONGO WAR Status
+**310** **Million** Revenue from the conflict minerals trade
 
-**310** **Million** Revenue from the conflict minerals trade  
 **186 Million** of it spent to fund the Congo War
 
-### **Money:**
+__Money:__
 
 **Armed Group Revenue** :  
+
 75% Mine related revenue and others
 
-![](images/image-1.png)
+![Fig: Armed group revenue in Congo war](images/image-1.png)
 
-Fig: Armed group revenue in Congo war
+**Congo’s Total Mineral Profits**: 
 
-**Congo’s Total Mineral Profits**:  
 35% Armed group profits  
 
-![](images/image-2.png)
-
-Fig: Congo mineral profits
-
+![Fig: Congo mineral profits](images/image-2.png)
   
 
-## Q&As
+### Q&As
 
 - What is the population of your country? 
 - How does this number correspond to 5,4 million? e.g equals to one state, one province, one city?
 
-## **Conflict Minerals in Products**
+## Conflict Minerals in Products
 
 | **Mineral Name** | **Mineral Image** | **Major Use** | **World share from covered countries** | **Top 2 Producers** |
 | --- | --- | --- | --- | --- |
-| Tin | ![](images/tin_bar_large.jpg) | Plating  
+| Tin | -- | Plating  
 Solders for joining pipes and electronic circuits  
 Zipper, button  
 Jewelry  
 Kitchenware  
 PVC in soles of shoes | 4% | China - 44.23%  
 Indonesia- 21.15% |
-| Tantalum | ![](images/tantalum-3.jpg) | Electrical components (e.g. used in mobile phones, computers),   
+| Tantalum | --- | Electrical components (e.g. used in mobile phones, computers),   
 aircraft and surgical components  
 Medical equipment  
 Cutting tools  
 Video game consoles  
 Camera lenses | 29% | Brazil - 26.87%  
 Mozambique- 16.86% |
-| Tungsten | ![](images/tungsten.jpg) | Metal wires,   
+| Tungsten | --- | Metal wires,   
 Electrodes  
 Electric lights  
 Garden tools  
@@ -151,19 +141,19 @@ USA - 9.10% |
 
 Vendor Compliance & Sustainability (VCS)
 
-## **Risk Level in Top Products**
+### Risk Level in Top Products
 
-![](images/C:\Users\EleniGeorgiopoulou\Desktop\Capture.PNG)
+## US Conflict Minerals Law
 
-## **US Conflict Minerals Law**
+[Dodd-Frank](https://www.wikidata.org/wiki/Q59597365) Wall Street Reform and Consumer Protection Act of 2010**. **(Section 1502)**
 
-**[Dodd-Frank](https://www.wikidata.org/wiki/Q59597365) Wall Street Reform and Consumer Protection Act of 2010**. **(Section 1502)**  
-**Requires companies to identify where the minerals used in their products came from.**
+Requires companies to identify where the minerals used in their products came from.
 
-**Dodd Frank has successfully reduced revenue to militias by 65%**.  
-****But 65% of current trade involves smuggling****
+**Dodd Frank has successfully reduced revenue to militias by 65%**
 
-## **Auditing and Reporting Requirements**
+**But 65% of current trade involves smuggling**
+
+## Auditing and Reporting Requirements
 
 Dodd Frank Act contains **2 auditing and reporting requirements:**
 
@@ -172,34 +162,33 @@ Dodd Frank Act contains **2 auditing and reporting requirements:**
 
 **Applicability**  
 _Companies are required to submit an annual conflict minerals report to the SEC, if:_  
-2a_.  they are required to file reports with the SEC under the_ **_Exchange Act of 1934_**_._  
+
+2a. they are required to file reports with the SEC under the_ **_Exchange Act of 1934_**. 
+
 2b. _conflict minerals are_ **_necessary to the functionality or production_** _of a product that they manufacture or contract to be manufactured._ 
 
 Even companies not directly regulated by SEC will be impacted by the audit requirements, because information will run through companies’ entire supply chains.   
+![companies’ entire supply chains](images/image-3.png)
 
-![](images/image-3.png)
-
-companies’ entire supply chains
-
-### **Customer’s expectations**
+## Customer’s expectations
 
 Customer’s supplier factories should be able to prove that their raw materials used to make customer’s products are conflict free.
 
-### **Conflict-Free Sourcing**
+### Conflict-Free Sourcing
 
 - Provide origin of 3TG with RCOI (Reasonable Country of Origin Inquiry)
 - Perform Due Diligence and report to customer 
 
 **How?**  
-Have an established **products assessment identification process**, to determine which products contain 3TG minerals  
-Be able to conduct **Reasonable Country of Origin Inquiry (RCOI)**, to determine whether minerals originated in the resource countries (DRC especially)  
+Have an established **products assessment identification process**, to determine which products contain 3TG minerals
+
+Be able to conduct **Reasonable Country of Origin Inquiry (RCOI)**, to determine whether minerals originated in the resource countries (DRC especially) 
+
 Be able to conduct **due diligence & report** to customer about potential risks so they can be assessed and managed appropriately
 
 Factory should have a Conflict Minerals Compliance Program in place to be able to report back to customer, concerning its products compliance.
 
-![](images/image-4.png)
-
-conflict minerals
+![conflict minerals](images/image-4.png)
 
 **Reporting - CFSI**
 
@@ -230,9 +219,8 @@ In 2015, more and more companies started publicly disclosing their supply chain�
 
 In 2016…
 
-## **Beyond USA**
+## Beyond USA
 
-![](images/C:\Users\EleniGeorgiopoulou\Desktop\flag.GIF)  
 In October 2014, China Chamber of Commerce of Metals, Minerals and Chemicals Importers and Exporters (CCCMC) requested Chinese companies to comply with a new set of due diligence guidelines
 
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtLGam3eSaIoQdaXSBmo4AojWBtQh0gVvWX8xQ8LB1ZRv0aFQ3a5hUg](https://lh6.googleusercontent.com/ZH06kQa85fH6zBYM2Ee8U_4Jvlvzq-jTsz7_ixS5mbZTflYl-6zlzgVY4Gvkm9GWCG7oG2SjpnZX9ZqtBEZHWq30-GiMzVJHrmCZp-Ug90jcQ-SMNMo_DkprGwHkvaZAfG8t2UPSflDjKfnf-g)  
@@ -247,23 +235,21 @@ Canada, Vancouver (BC), is considering actions to prevent city budgets funds fro
 ![https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkFFi1WCoSnn4F1Vj5Ztr_JBfUEGYP8_hwbD5t9xg9PrPQvErhVw](https://lh4.googleusercontent.com/9sj-jo3J5Y5_PoyX3E8yeXvzJPL_BoTDYby78Bb8WZDL0leTOKBz3oaD-SRAo_4ua_ewHrrLO1eOD0zOGABMUT8sHrQt7o_toxd1z8jYd_UtOw5m_iP6jJgpOr2Fn7GBMVVtpwLvaRyGX7dxMA)  
 Organization for Economic Cooperation and Development (OECD) has issued a Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas.  There are 34 member countries of OECD at present.
 
-#### **Continuous tracking**
+## Continuous tracking
 
 Continuous tracking of your suppliers / smelters and the origin of your products will ensure compliance in your operations and easier tracking and reporting to your customers and the industry.
 
 ![](https://lh4.googleusercontent.com/YuKGXHSdEpRykS-Bbk6P97qqTHmQXPs3eTA8B7jqOFaCmy9xdWD5VUTAPkLJfJaxR-KkmECXcdzPd1pLcqqadpW8Fu2QecTg5otdaGhRU4f4287QSKRGNtEc7Iq6mYN_TqBWnlOCuLZQrESEbA)
 
-## **Building factories’ sustainable compliance operations**
+## Building factories’ sustainable compliance operations
 
-Offering: 
+__Offering:__
 
 - Capacity building (CB) programs in the form of classroom trainings & seminars
 - Remediation services
 - E-learning programs and webinars
 - Easy access to our resources from the Sustainability Resource Center (SRC) website 
 
-**Training programs offered:**
+## Training programs offered:
 
-![](images/image-5.png)
-
-Training program: Conflict Minerals
+![Training program: Conflict Minerals](images/image-5.png)

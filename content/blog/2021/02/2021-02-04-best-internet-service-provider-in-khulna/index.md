@@ -44,8 +44,6 @@ First, you need to know some information about your internet service provider. I
 
 ### **Position** 1: GOISP
 
-![](images/image.png)
-
 #### ************GOISP************  
 ⭐⭐⭐⭐⭐
 

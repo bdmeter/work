@@ -9,9 +9,9 @@ tags:
   - "washinton"
 ---
 
-![](images/du-student-rape-accused-mojnu-191120-01.jpg)
+![](https://gumlet.assettype.com/bdnews24-english%2Fimport%2Fmedia%2F2020%2F11%2F19%2Fmojnu-du-student-rape-accused-191120-01.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true)
 
-![](images/women-children-tribunal-191120-02.jpg)
+![](https://gumlet.assettype.com/bdnews24-english%2Fimport%2Fmedia%2F2020%2F11%2F19%2Fshibgonj-accident-191120-02.jpg?auto=format%2Ccompress&fit=max&w=1200)
 
 ##### A court has sentenced 'Mojnu', the lone suspect in the rape of a Washington University student earlier this year, to life imprisonment.
 

@@ -326,9 +326,7 @@ The minimum width of a passageway for normal use is 36 in. This is large enough 
 
 **TABLE 3.6 Typical Occupant Load Requirements for Types of Occupancy**
 
-![](images/image-12.png)
-
-C capacity of all passenger vehicles that can be unloaded  
+Capacity of all passenger vehicles that can be unloaded  
 simultaneously. † D number of seats or occupants for which space is to be used.  
 ‡ S 75 persons per unit of width of exit openings serving a stage direction, or one person per 15 ft of performing area plus one person per 50 ft2 of the remaining area plus a number of seats that may be placed for an audience on stage.
 

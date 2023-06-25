@@ -2,7 +2,7 @@ main:
   - name: Support
     identifier: support
     weight: 100
-    url: https://bdmeter.info/
+    url: https://bdmeter.info/page/2023/03/2023-03-17-contact/
     params:
       header: The BDM support community.
       icon:

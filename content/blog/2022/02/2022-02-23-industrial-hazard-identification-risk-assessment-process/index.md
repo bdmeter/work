@@ -49,7 +49,7 @@ Today we will learn about vendor compliance and sustainability terms to identify
 
 ## Risk Never Sleeps!
 
-![](images/zoom38__04436_zoom.gif)![](https://lh3.googleusercontent.com/YXJSg_x9s06iD9QNoGuhTvtvQPOH1boZBbOieos-X-27xbN23lGs5z7oS5cpdIfzG80bgyVtiQCPLiyGSyUXuRfs65R85cX2f_tcFppFxkhA4VCShat3P9GSMpyW3FGCR_WUSbQmbREfibeBvf0)![http://ts1.mm.bing.net/th?&id=HN.608034603579412445&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh5.googleusercontent.com/IlEop6IFhW4P8LLwBcSgkDXKLK1c8FxenvNllXHmrgyWvZA2AXfFOs3MOHXbCVrL1d5s-pde1LndNrP9o8dOAI24KzLofZahJDJ6OhAQYfrVghRaWsCD6mFdmXPtU0mLOK2-jMzaM_OCOogg7iY)
+![](https://lh3.googleusercontent.com/YXJSg_x9s06iD9QNoGuhTvtvQPOH1boZBbOieos-X-27xbN23lGs5z7oS5cpdIfzG80bgyVtiQCPLiyGSyUXuRfs65R85cX2f_tcFppFxkhA4VCShat3P9GSMpyW3FGCR_WUSbQmbREfibeBvf0)![http://ts1.mm.bing.net/th?&id=HN.608034603579412445&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh5.googleusercontent.com/IlEop6IFhW4P8LLwBcSgkDXKLK1c8FxenvNllXHmrgyWvZA2AXfFOs3MOHXbCVrL1d5s-pde1LndNrP9o8dOAI24KzLofZahJDJ6OhAQYfrVghRaWsCD6mFdmXPtU0mLOK2-jMzaM_OCOogg7iY)
 
 ## The Cost of Safety 
 
@@ -202,8 +202,6 @@ _Risk Matrix-based Quantitative Rating of Hazards_
 
 Search for the availability of Reliable Data
 
-![](images/image023.gif)
-
 ![](https://lh3.googleusercontent.com/sP3vD7goTDljFqcZs4nYemuUl3hys_rvTFvyCm6DHg7epDr88gaY3tf_gEKCOUui_ysxCccxJg9LncfpNT2AS-plTjhVQAJAjYge50IUiviNqYdcg0vZokHF28KdLHrfpu1TrMI5cgA9JabwRzE)
 
 ### **Hazard Identification & Risk Assessment Process** 
@@ -324,7 +322,7 @@ Combinational Approach is the Best Normally use Area Based Approach to identify 
     - Timeline for completion 🡪 Prepare Corrective Action Plan
     - Update the HIRA Form upon completion of the Additional Control Measures
 
-![](images/10379-2.jpg)![http://ts1.mm.bing.net/th?&id=HN.608054033980526191&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/_g8N1p5Tv0jMmbCVkeuaQBPzFxFSt1P4tOmvUrVZPDpIk_zVhLSAPdimVlLZO-9poiwNxz3JuIJ3KMi36T3n2rpKVSFknRQkCLaHN2_jwIOB2NA_hbvwunAqsOvZSBPifNt_V9v4eW9jQ2ov_g4)![http://ts1.mm.bing.net/th?&id=HN.608000428494425194&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/nCR3Vj6iJDQSjT8ujgps2RTjj66GW6DDiu8ur6ATP6vZD3etBaXZYEi-gnt-rQ-1uEiW1NjqOY1XpbMCF3odBr3Jsz1ngbz76jiVDCK3bnj7pFEjThX0CkVCGL7yrjfx_dISjBvQhSzdqsWBAoQ)![http://ts1.mm.bing.net/th?&id=HN.608019914760717263&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh3.googleusercontent.com/JE623BSzcS4lWh-Nf6blY67J_DgEDqW6ajcNk6b1y4qbE0HYmdjhMKtXvbMdg-HYmSrB3Pi143Z6ZZkL7_h2N21nFJabl6Vfep7wuT5bTDk5gvc9nJ9sIqcaq9soFQIj8H2dZ5E9XXdN0VEHyz4)![http://ts1.mm.bing.net/th?&id=HN.608030759548816055&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh3.googleusercontent.com/3Jn3EhnRLNHci-fUeCxbWxArAjrUX1DkA2kLckt7l8xhGR9lBGXh51fIvFV2Y7wurca5ZwMJGeohuP88tyxH3J8OVLyiGe8Q89d5Ob638jMBK-8n13oQt3kA7dCmdIzzS6MP7kd5u_2Bubag7as)![http://ts1.mm.bing.net/th?&id=HN.608047058953439589&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/_fa3xxVswcS1PgBMIYDSv5myV72uaul9Eg_qnRLIVgPLosKEmde45zQrUqq_4KpTXiqMX_YfOM3RJCWwkrtNI1KzkBM_q6uVaCA97hUuZmf3cX7CILY77I3v-YqVOwTC_zAeAk41WLuBEyCN8lM)
+![http://ts1.mm.bing.net/th?&id=HN.608054033980526191&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/_g8N1p5Tv0jMmbCVkeuaQBPzFxFSt1P4tOmvUrVZPDpIk_zVhLSAPdimVlLZO-9poiwNxz3JuIJ3KMi36T3n2rpKVSFknRQkCLaHN2_jwIOB2NA_hbvwunAqsOvZSBPifNt_V9v4eW9jQ2ov_g4)![http://ts1.mm.bing.net/th?&id=HN.608000428494425194&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/nCR3Vj6iJDQSjT8ujgps2RTjj66GW6DDiu8ur6ATP6vZD3etBaXZYEi-gnt-rQ-1uEiW1NjqOY1XpbMCF3odBr3Jsz1ngbz76jiVDCK3bnj7pFEjThX0CkVCGL7yrjfx_dISjBvQhSzdqsWBAoQ)![http://ts1.mm.bing.net/th?&id=HN.608019914760717263&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh3.googleusercontent.com/JE623BSzcS4lWh-Nf6blY67J_DgEDqW6ajcNk6b1y4qbE0HYmdjhMKtXvbMdg-HYmSrB3Pi143Z6ZZkL7_h2N21nFJabl6Vfep7wuT5bTDk5gvc9nJ9sIqcaq9soFQIj8H2dZ5E9XXdN0VEHyz4)![http://ts1.mm.bing.net/th?&id=HN.608030759548816055&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh3.googleusercontent.com/3Jn3EhnRLNHci-fUeCxbWxArAjrUX1DkA2kLckt7l8xhGR9lBGXh51fIvFV2Y7wurca5ZwMJGeohuP88tyxH3J8OVLyiGe8Q89d5Ob638jMBK-8n13oQt3kA7dCmdIzzS6MP7kd5u_2Bubag7as)![http://ts1.mm.bing.net/th?&id=HN.608047058953439589&w=300&h=300&c=0&pid=1.9&rs=0&p=0](https://lh4.googleusercontent.com/_fa3xxVswcS1PgBMIYDSv5myV72uaul9Eg_qnRLIVgPLosKEmde45zQrUqq_4KpTXiqMX_YfOM3RJCWwkrtNI1KzkBM_q6uVaCA97hUuZmf3cX7CILY77I3v-YqVOwTC_zAeAk41WLuBEyCN8lM)
 
 ### **Monitoring & Review** 
 

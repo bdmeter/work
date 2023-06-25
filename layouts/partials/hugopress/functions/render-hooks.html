@@ -1,0 +1,27 @@
+{{- $name := .Name }}
+{{- $page := .Page }}
+{{- $modules := partialCached "hugopress/functions/modules" $name $name }}
+{{- $idx := 0 }}
+{{- $total := len $modules }}
+{{- range $modules }}
+  {{- $ctx := dict
+    "HasPrev" (ne $idx 0)
+    "HasNext" (lt $idx (sub $total 1))
+    "Index" $idx
+    "Page" $page
+    "Total" $total
+  }}
+  {{- if not (partialCached "hugopress/functions/partial-exists" .partial .partial) }}
+    {{- warnf "[hugopress] [%s] hook does't exist: layouts/partials/%s.html" .module .partial }}
+    {{- continue }}
+  {{- end }}
+  {{- if site.Params.hugopress.debug }}
+    {{- warnf "[hugopress] [%s] rendering hook: %q." .module .name }}
+  {{- end }}
+  {{- if .cacheable }}
+    {{- partialCached .partial $ctx }}
+  {{- else }}
+    {{- partial .partial $ctx }}
+  {{- end }}
+  {{- $idx = add $idx 1 }}
+{{- end }}

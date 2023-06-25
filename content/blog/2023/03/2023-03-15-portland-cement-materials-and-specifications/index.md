@@ -33,8 +33,6 @@ Most cement will exceed the requirements shown in Table 4.1 by a comfortable mar
 
 **Chemical & physical requirements of portland cement\***
 
-![](images/image-2.png)
-
 Based on requirements in ‘‘Standard Specification for Portland Cement,’’ ASTM C150. See the current edition of C150 for exceptions, alternatives, and changes in requirements.
 
 Because of the higher C3A content, Type III cement also has poor sulfate resistance. Type III cement is not always available from building materials dealers’ stocks but may be obtained by them from the cement manufacturer on short notice. Ready-mix concrete suppliers generally do not stock Type III cement because its shorter set time makes it more volatile to transport and discharge, especially in hot weather.

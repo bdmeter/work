@@ -11,8 +11,6 @@ tags:
 
 To work at FedEx global shipping, it's important to learn CBM calculation. Why? Because you need to estimate shipping cost to quote price to customers. This is very much important.
 
-![](images/Screenshot_2023_0205_234350.png)
-
 Fedex Shipping Job Guide
 
 To calculate CBM, we first need to know the length, width and height of the carton in cm. If carton measurement is in inch, we have to convert measurement in inch. Simply multiply the length, width and height to find cubic centimeter and divide by 1000000 to find cubic meter (CBM). Please find the formula as follows:

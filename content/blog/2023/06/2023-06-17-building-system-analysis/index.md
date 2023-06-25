@@ -13,15 +13,15 @@ tags:
   
 ---
 
+## Building system design
+
 Systems design comprises a logical series of steps that leads to the best decision for a given set of conditions. The procedure requires:
 
-__Analysis__ of a building as a system.
+### Analysis of a building system
 
-__Synthesis,__ or selection of components, to form a system that meets specific objectives while subject to constraints, or variables controllable by designers.
-
-__Appraisal__ of system performance, including comparisons with alternative systems.
-
-__Feedback__ to analysis and synthesis of information obtained in system evaluation, to improve the design.
+- Synthesis, or selection of components, to form a system that meets specific objectives while subject to constraints, or variables controllable by designers.
+- Appraisal of system performance, including comparisons with alternative systems.
+- Feedback to analysis and synthesis of information obtained in system evaluation, to improve the design.
 
 The prime advantage of the procedure is that, through comparisons of alternatives and data feedback to the design process, systems design converges on an optimum, or best, system for the given conditions. Another advantage is that the procedure enables designers to clarify the requirements for the building being designed. Still another advantage is that the procedure provides a common basis of understanding and promotes cooperation between the specialists in various aspects of building design.
 
@@ -35,11 +35,9 @@ A building meets the preceding requirements. By definition, it is an assemblage 
 others. And the required performance of the building as a whole imposes restrictions on the components. Consequently, a building has the basic characteristics of a
 system, and systems-design procedures should be applicable to it.
 
-## Systems Analysis
+### Systems Analysis
 
 A group of components of a system may also be a system. Such a group is called a subsystem. It, too, may be designed as a system, but its goal must be to assist the system of which it is a component to meet its objectives. Similarly, a group of components of a subsystem may also be a system. That group is called a subsubsystem.
-
-For brevity, the major subsystems of a building are referred to as systems in this book.
 
 In a complex system, such as a building, subsystems and other components may be combined in a variety of ways to form different systems. For the purposes of building design, the major systems are usually defined in accordance with the construction trades that will assemble them, for example, structural framing, plumbing, electrical systems, and heating, ventilation, and air conditioning.
 

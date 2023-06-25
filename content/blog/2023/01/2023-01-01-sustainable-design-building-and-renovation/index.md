@@ -50,8 +50,6 @@ Occupy existing buildings or renovate/retrofit premises that:
 
 - adopt construction/renovation processes and techniques to minimize the generation of and proper management of emissions, discharges, and waste from the site.
 
-![](images/Screenshot-from-2023-01-01-11-05-26.png)
-
 ### **Energy & Atmosphere**
 
 Design, install or upgrade building systems, equipment, lighting, and appliances that are:

@@ -21,6 +21,34 @@
     {{- $attributes := partial "hugopress/functions/render-attributes" (dict "Page" . "Name" "hb-blog-post-content") }}
     <div class="hb-blog-post-content mb-5"{{ with $attributes }} {{ . | safeHTMLAttr }}{{ end }}>
       {{ .Content }}
+
+      <!-- LikeButton BEGIN -->
+      <div>
+        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="" data-action="" data-size="" data-share="false"></div>
+      </div>
+      <!-- LikeButton END -->
+
+      <!-- ShareThis BEGIN -->
+      <div>
+          <div class="sharethis-inline-share-buttons"></div>
+      </div>
+      <!-- ShareThis END -->
+
+
+      <div align="center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6173503627170942"
+        crossorigin="anonymous"></script>
+        <ins class="adsbygoogle"
+        style="display:block; text-align:center;"
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-6173503627170942"
+        data-ad-slot="8511319648"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
     </div>
     {{- partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-post-content-end" "Page" .) }}
     {{- partial "hb/modules/blog/post/comments" . }}

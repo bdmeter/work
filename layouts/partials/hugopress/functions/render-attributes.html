@@ -1,0 +1,25 @@
+{{- $name := .Name }}
+{{- $page := .Page }}
+{{- $modules := partialCached "hugopress/functions/attributes" $name $name }}
+{{- $attributes := dict }}
+{{- range $modules }}
+  {{- $attrs := slice }}
+  {{- if not (partialCached "hugopress/functions/partial-exists" .partial .partial) }}
+    {{- warnf "[hugopress] [%s] attribute does't exist: layouts/partials/%s.html" .module .partial }}
+    {{- continue }}
+  {{- end }}
+  {{- if site.Params.hugopress.debug }}
+    {{- warnf "[hugopress] [%s] rendering attribute: %q." .module .name }}
+  {{- end }}
+  {{- if .cacheable }}
+    {{- $attrs = partialCached .partial (dict "Page" $page) }}
+  {{- else }}
+    {{- $attrs = partial .partial (dict "Page" $page) }}
+  {{- end }}
+  {{- $attributes = merge $attributes $attrs }}
+{{- end }}
+{{- $tmp := slice }}
+{{- range $name, $value := $attributes }}
+  {{- $tmp = $tmp | append (printf `%s="%s"` $name $value) }}
+{{- end }}
+{{- delimit $tmp " " -}}

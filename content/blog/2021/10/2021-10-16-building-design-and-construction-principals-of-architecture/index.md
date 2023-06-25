@@ -35,9 +35,6 @@ To meet this challenge successfully, continual improvements in building design a
 
 One advance of note to building design is the adaptation of operations research, or systems design, developed around the middle of the twentieth century and originally applied with noteworthy results to the design of machines and electronic equipment. In the past, the design of a new building was mainly an imitation of the design of an existing building. Innovations were often developed fortuitously and by intuition and were rare occurrences. In contrast, systems design encourages innovation. It is a precise procedure that guides creativity toward the best decisions. As a result, it can play a significant role in meeting the challenges posed by increasing building complexity and costs. The basic principles of systems design are presented in this section.
 
-Quick Moisture Meter
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=cableboy0a-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B078WFL8S2&amp;asins=B078WFL8S2&amp;linkId=9292173f3f3ef6dea11c8bc4bce96f90&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe>
 
 ## Principals Of Architecture
 

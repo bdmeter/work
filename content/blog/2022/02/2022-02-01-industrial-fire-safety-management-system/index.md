@@ -59,23 +59,23 @@ In this project, they are making mostly all kinds of knit garments and textiles.
 
 The industry needs to create an emergency response team to maintain fire safety management responsibilities in prompt action during the crisis period.
 
-**\[General Manager\]  
-|  
-|-------> \[F.C.O\]  
-|  
-\[HR Manager\]  
-|  
-|  
-\+ --------> \[Management\]  
-\+ --------> \[Production\]  
-\+ --------> \[Store\]  
-\+ --------> \[Cutting\]  
-\+ --------> \[Sewing\]  
-\+ --------> \[Finishing\]  
-\+ --------> \[Logistics\]  
-\+ --------> \[Quality\]  
-\+ --------> \[Compliance\]  
-\+ --------> \[Admin\]**
+<div align="center">
+
+**General Manager**
+
+&darr;
+
+F.C.O
+
+&darr;
+
+HR Manager
+
+&darr;
+
+Management + Production + Store + Cutting + Sewing + Finishing + Logistics + Quality + Compliance + Admin
+
+</div>
 
 ### Active Fire Protection Facilities
 
@@ -83,15 +83,11 @@ The industry needs to create an emergency response team to maintain fire safety 
 
 Manual Call Point:
 
-![](images/image.png)
-
-Manual call point
+![Manual call point](images/image.png)
 
 Automatic fire detection:
 
-![](images/image-1.png)
-
-Automatic fire detection
+![Automatic fire detection](images/image-1.png)
 
 **DO NOT FORGET!**
 
@@ -116,31 +112,21 @@ Table: location of fire detection and alarm system
 
 ### Fire classification
 
-![](images/image-2.png)
-
-fig: fire classification
+![fig: fire classification](images/image-2.png)
 
 ### Firefighting equipment and facilities
 
-![](images/image-3.png)
-
-fig: firefighting equipment
+![fig: firefighting equipment](images/image-3.png)
 
 ### Manual fire suppression
 
-![](images/image-4.png)
+![Fire extinguisher](images/image-4.png)
 
-Fire extinguisher
-
-![](images/hydrant.png)
-
-Hydrant
+![Hydrant](images/hydrant.png)
 
 ### Automatic fire suppression
 
-![](images/thermatics-fire-extinguisher.png)
-
-Thermatics fire extinguisher
+![Thermatics fire extinguisher](images/thermatics-fire-extinguisher.png)
 
 ## Thermatics Fire Extinguisher
 
@@ -150,61 +136,41 @@ Thermatics fire extinguisher
 - Does not disturb the production
 - The cost of purchase is relatively less expensive compared to the installation of fire sprinkler systems, fire sprinkler systems as requiring the installation of pipes and pumps
 
-![](images/image-6.png)
-
-fig: thermatics fire extinguisher
+![fig: thermatics fire extinguisher](images/image-6.png)
 
 ### Location of firefighting equipments
 
-![](images/image-7.png)
-
-fig: Location of firefighting equipment
+![fig: Location of firefighting equipment](images/image-7.png)
 
 **Emergency lights**
 
-![](images/image-8.png)
-
-fig: emergency lights
+![fig: emergency lights](images/image-8.png)
 
 **Evacuation Routes**
 
-![](images/image-9.png)
-
-fig: evacuation route
+![fig: evacuation route](images/image-9.png)
 
 **Electricity Panel**
 
-![](images/image-10.png)
-
-fig: electrical panel
+![fig: electrical panel](images/image-10.png)
 
 **Fire Evacuation Drill**
 
-![](images/image-11.png)
+![fig: evacuation drill](images/image-11.png)
 
-fig: evacuation drill
-
-![](images/image-12.png)
-
-fig: fire evacuation drill
+![fig: fire evacuation drill](images/image-12.png)
 
 ## **Fire Safety Training**
 
-![](images/image-13.png)
-
-fig: fire safety training by fire station, in every 6 month
+![fig: fire safety training by fire station, in every 6 month](images/image-13.png)
 
 ### Control and Record
 
-![](images/image-14.png)
-
-fig: fire safety control & record chart
+![fig: fire safety control & record chart](images/image-14.png)
 
 ## Fire safety signs
 
-![](images/image-15.png)
-
-fig: fire safety signs in the industry
+![fig: fire safety signs in the industry](images/image-15.png)
 
 ### Benefits of Fire Safety Management Implementation
 

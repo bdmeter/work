@@ -8,7 +8,7 @@ tags:
   - "united-states"
 ---
 
-![](images/mirza-fakhrul-191120-01.jpg)
+![](https://gumlet.assettype.com/bdnews24-english%2Fimport%2Fmedia%2F2020%2F11%2F19%2Fmirza-fakhrul-191120-01.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true)
 
 ##### Joe Biden has gone into voluntary self-quarantine at home after a close relative tested positive for the coronavirus.
 

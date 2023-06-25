@@ -6,7 +6,7 @@ categories:
   - "information"
 ---
 
-![People buying disinfectant at a shopping mall in Hong Kong. Lam Yik Fei for The New York Times](images/hk-shopping-mall-191120-01.jpg)
+![People buying disinfectant at a shopping mall in Hong Kong. Lam Yik Fei for The New York Times](https://gumlet.assettype.com/bdnews24-english%2Fimport%2Fmedia%2F2020%2F11%2F19%2Fskip-wedding-proposal-191120-01.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1)
 
 ##### At Hong Kong’s deserted airport, cleaning crews constantly spray baggage trolleys, elevator buttons and check-in counters with antimicrobial solutions. In New York City, workers continually disinfect surfaces on buses and subways. In London, many pubs spent lots of money on intensive surface cleaning to reopen after lockdown — before closing again in November.
 

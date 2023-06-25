@@ -42,12 +42,6 @@ Table: Elements of human trafficking
 2.45 Million People Worldwide  
 Are Trafficked & Exploited
 
-![](images/Screenshot-from-2023-01-05-14-50-18.png)
-
-Victims of Human Trafficking
-
-![](images/Screenshot-from-2023-01-05-14-50-25.png)
-
 ### CONDITIONS THAT MAKE PEOPLE VULNERABLE TO HUMAN TRAFFICKING
 
 • Poverty  

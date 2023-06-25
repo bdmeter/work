@@ -52,7 +52,7 @@ tags:
 
 Learn how to create a garment sewing operator training module. This training module was developed and tested successfully to take thousands of sewing operators training in different garment and textile manufacturing industries in Bangladesh. This training module fully structured and full of all technical guidelines about garment sewing operator's long-time training procedure, schedule, practical training guide, technical sewing information, exam process, and others all necessary reporting formats. The step-by-step guide will help garment and textile manufacturers globally to know how to train sewing operators in big industries.
 
-## **SEWING OPERATOR TRAINING PROGRAM**
+## SEWING OPERATOR TRAINING PROGRAM
 
 INDEX
 
@@ -60,31 +60,31 @@ INDEX
 
 Index of Sewing operator training
 
-## **CHAPTER-1**
+## CHAPTER-1
 
-### **INTRODUCTION OF THE COMPANY AND RULES**
+### INTRODUCTION OF THE COMPANY AND RULES
 
-**Name:**                                 A Garment and Textile Industry  
-**Establishment:**                  1985  
-**Total Operator:**                 10000  
-**Divisions:**                             
-Knitting and Dyeing   
-Woven Dyeing   
-Printing  
-Washing   
-Garment sewing  
-Label   
-Spinning Mill
+- Name: A Garment and Textile Industry  
+- Establishment: 1985  
+- Total Operator: 10000  
+- Divisions:                          
+      - Knitting and Dyeing   
+      - Woven Dyeing   
+      - Printing  
+      - Washing   
+      - Garment sewing  
+      - Label   
+      - Spinning Mill
 
-**Vision:** To train a garment manufacturer as the best garment manufacturer in Bangladesh and Globally.
+### Vision:
+To train a garment manufacturer as the best garment manufacturer in Bangladesh and Globally.
 
-**Top Management:**            
+### Top Management:
+        
 Managing Director name  
-Director Name and position  
-Director Name and position  
-Director name and position  
+Director Name and position
   
-Main Buyers:      Levis, Nike, Adidas, Eddie Bauer, KHQ, MNS, C&A, Anthropology, Costco, Carters, Walmart, H&M, Tema, Tesco, US Polo, Next, Target, Costco, Mango, S’Oliver, etc. 
+Main Buyers: Levis, Nike, Adidas, Eddie Bauer, KHQ, MNS, C&A, Anthropology, Costco, Carters, Walmart, H&M, Tema, Tesco, US Polo, Next, Target, Costco, Mango, S’Oliver, etc. 
 
 * * *
 
@@ -117,11 +117,11 @@ Main Buyers:      Levis, Nike, Adidas, Eddie Bauer, KHQ, MNS, C&A, Anthropo
 
 **Leave:** 
 
-- Weekly holiday:     01 days in a week (as labor law)
-- Festival holiday:     ≥ 11 days (with full wages)
-- Earn leave:              10 days in a year (with full wages)
-- Sick leave:                14 days in a year (with full wages)
-- Earn leave:               Activate after 01 year service period. 01 day earn leave will be permitted for 18 working days. This earned leave can be claimed next year. Otherwise, workers will be paid through total unclaimed earned leaves accordingly.
+- Weekly holiday: 01 days in a week (as labor law)
+- Festival holiday: ≥ 11 days (with full wages)
+- Earn leave: 10 days in a year (with full wages)
+- Sick leave: 14 days in a year (with full wages)
+- Earn leave: Activate after 01 year service period. 01 day earn leave will be permitted for 18 working days. This earned leave can be claimed next year. Otherwise, workers will be paid through total unclaimed earned leaves accordingly.
 - Maternity leave: Leave will be applicable during the pregnancy period (08 weeks before the child’s birth and 08 weeks after birth). Maternity leave will be valid after a 06 months successful service period. Workers will be informed immediately to the Medical center for Register enrolling during the primary pregnancy period. 
 
 **Leave procedure:**
@@ -196,9 +196,9 @@ If anyone willingly destroys any protective tools/equipment, then the company wi
 
 * * *
 
-## **CHAPTER-2**
+## CHAPTER-2
 
-### **DIFFERENT TYPES OF INDUSTRIAL SEWING MACHINE**
+### DIFFERENT TYPES OF INDUSTRIAL SEWING MACHINE
 
 ![](https://lh3.googleusercontent.com/WzkSUj7dxCAO0AJegHt05fr5mIVYZ-YIjV-PZ1Sg7QzSOx-36SXWXk5CQZ_1--q-kUszYh2ASTobqcF6wjIfC2fZyTxo2VT-o7DCu1vArV_Q_a3yT6gM8G9nqo5kWWETZw)
 
@@ -266,13 +266,11 @@ Bar tacking
 
 * * *
 
-## **CHAPTER-3**
-
-### **INTRODUCTION OF TOOLS AND MATERIALS**
+## INTRODUCTION OF TOOLS AND MATERIALS
 
 Information sheet
 
-**What are the Tools used in a Garment factory:**
+### What are the Tools used in a Garment factory
 
 Different types of tools are used in the garment industry to reduce the mechanical problem of sewing machines, to make garments from different types of pattern, and prepare the sewing machine to sew different types of garment.
 
@@ -280,13 +278,13 @@ Different types of tools are used in the garment industry to reduce the mechanic
 
 **Cutting tools:** Generally used to cut pattern papers and fabrics. Example- Cutting table, Scissor, Anti cutter, Thread cutter, stitch opener etc.
 
-Usage of Tools:
+### Usage of Tools:
 
 <table><tbody><tr><td>Tools</td><td>Usages</td><td>Images</td></tr><tr><td>Measurement tape</td><td>Used to measure patterns, fabrics and garments.</td><td><img alt="C:\Users\Shahadath\Desktop\machine\parts\measuring tape.jpg" src="images/C:\Users\Shahadath\Desktop\machine\parts\scale.jpg" width="288" height="46"></td></tr><tr><td>Pencil&nbsp;</td><td>Used to draw design on patterns i.e. 2B, HB, 4B etc.</td><td><img alt="Z:\SHAHADATH\sw photo\pencil_0.jpg" src="images/Z:\SHAHADATH\sw photo\eraser.jpg" width="123" height="74.02532744407654"></td></tr><tr><td>Scissor&nbsp;</td><td>Cutting tools, used to cut different types of patterns and fabrics. General sizes are 8”, 10”, 12”, 14” etc.</td><td><img alt="C:\Users\Shahadath\Desktop\machine\parts\scissor.png" src="https://lh5.googleusercontent.com/ZxaLQGHMzqTDKAWMIndb9by88e8COiqUqACFMdDr149quaxayACNTWrVCF8T8SPZXNl9KmGYy88UV5GtFHBee_mmDCZKTlLEVa7S0cBm9VfVDgiWOicbOvXI9BlLRm8Zjg" width="130" height="52"></td></tr><tr><td>Thread cutter</td><td>Used to cut extra thread after garment sewing.</td><td><img src="https://lh6.googleusercontent.com/g_qLpBQUfojuOh3WN7EaxenI6-DubM8CHnRRYDzqqk6uAyRUK8lOrrWp_QVLcwqv00OjHEC90kCcKlT1Mu743JAkBfIPV9dmq3r5Rny6xMmwJk-Gmmw5FXYGjW96DxcE2g" width="144" height="73"></td></tr><tr><td>Stitch opener</td><td>Used to open defective stitches.</td><td><img src="https://lh3.googleusercontent.com/XtgN-mxFa5AlcSoJw5V07WQHLB_V3GEcDBHOuiVoFQSDwDJdkrq1V3BCEqNUoZo4VcDtGEWBdtSG4BQ9rYBOBH878sMe5ez26CRy7SYhBWtLiKtMWVYs5gQE4qvpQEziBw" width="220" height="67"></td></tr></tbody></table>
 
-Sewing accessories
+### Sewing accessories
 
-**What are the Materials used in a Garment factory:**
+#### What are the Materials used in a Garment factory
 
 Fabrics are the main raw material to produce garment along with different types of Trims/ Accessories inside and outside of garment. Different types of raw materials name and description given below:
 
@@ -301,31 +299,43 @@ Fabrics are the main raw material to produce garment along with different types 
 - Chalk and marking pencil
 - Measurement tape
 
-**Fabric:** Different types of garment are made from different types of fabric i.s. Cotton, Polyester, Nylon, Rayon, Linen, Silk, Denim, Jeans, Twill, Gabardine, Flannel, Poplin, Tetron, Single Jersey, Rib, Interlock etc. Different types of fabric’s description given below:
+##### Fabric
+Different types of garment are made from different types of fabric i.s. Cotton, Polyester, Nylon, Rayon, Linen, Silk, Denim, Jeans, Twill, Gabardine, Flannel, Poplin, Tetron, Single Jersey, Rib, Interlock etc. Different types of fabric’s description given below:
 
 <table><tbody><tr><td>Cotton&nbsp;</td><td>Cotton fabrics are made from natural fibrous yarn from Carpus trees.</td><td><img alt="Z:\SHAHADATH\sw photo\Cotton-Fabric.jpg" src="images/Z:\SHAHADATH\sw photo\jeans.jpg" width="133" height="117"></td></tr><tr><td>Twill/Gabardine</td><td>Thick types of Cotton fabric having different colors. Good for making Pants and Ladies Skirts,</td><td><img alt="Z:\SHAHADATH\sw photo\J21-stretch-gaberdine-trousers.jpg" src="https://lh6.googleusercontent.com/s5uuBt2bnCJ_EjmcOfBiZYF3vfQuJAoD5KaHR3itFudYXJDbSnEdMpP5CihxRw-_OcOrwL9S1CrqOs1PUYsvUQxytulPVGoDvfKAy_MS71yvOGPxrMbCCbAxZPg65OXCmA" width="112" height="98"></td></tr></tbody></table>
 
-Garment fabric type
+###### Garment fabric type
 
-**Thread:** Two types of threads are used to produce garment in Single Needle Lockstitch Machine.
-
-1. Cotton    & 2.  Synthetic
+##### Thread
+Two types of threads are used to produce garment in Single Needle Lockstitch Machine.
+1. Cotto
+2. Synthetic
 
 <table><tbody><tr><td>Cotton</td><td>Cotton threads produce from Cotton fiber</td><td><img alt="Z:\SHAHADATH\sw photo\IndustrialThread-Coats EcoVerde Organic Cotton_tcm35-4187.jpg" src="images/Z:\SHAHADATH\sw photo\synthetic-thread-250x250.gif" width="157" height="107"><strong></strong></td></tr></tbody></table>
 
-Sewing thread
+##### Sewing thread
 
-**Label:** Labels are sewn in different places of garment i.e. inside of Collar stand, lower inside of front Box plate, inside of side seam etc. Label contains essential information about clothing. Mainly two types-
+##### Label
+Labels are sewn in different places of garment i.e. inside of Collar stand, lower inside of front Box plate, inside of side seam etc. Label contains essential information about clothing. Mainly two types-
 
 <table><tbody><tr><td><strong>Main Label</strong>- Contain information about Company or Country name</td><td><img alt="C:\Users\Shahadath\Desktop\machine\parts\herringbone-clothing-label.jpg" src="images/C:\Users\Shahadath\Desktop\machine\parts\size label.JPG" width="126" height="137"><br><img alt="C:\Users\Shahadath\Desktop\machine\parts\care label.jpg" src="https://lh6.googleusercontent.com/KerqGKkxgfEJkcN7L2AOQvOxrLTwTIecZzyrBW6eUKJc97VNqqdWD6ooLi4lokiZRz5oHv8VIyJyvZnW8v__kVX_xO3DU-sJBM5eDsvqaDUG4ZE5WJ915kNFjMSj7s3eLw" width="142" height="150"></td></tr></tbody></table>
 
-Garment label type
+###### Garment label type
+  - Care label
+  - main label
+  - side label
+  - brand label
+  - fire label
+  - size label
+  - patch label
+  - caution label
 
-**Zipper:** Zipper/Chain is an important part of clothing. Use to open/close two parts of a garment. Mainly used in Pants, Jackets, Skirts, Shirts and attaching with garment as a decorative/fashionable purpose. Zippers are mainly two types-
+##### Zipper
+Zipper/Chain is an important part of clothing. Use to open/close two parts of a garment. Mainly used in Pants, Jackets, Skirts, Shirts and attaching with garment as a decorative/fashionable purpose. Zippers are mainly two types-
 
 <table><tbody><tr><td>Open end zipper- Both end fully open and mainly used in Jacket</td><td><img alt="C:\Users\Shahadath\Desktop\machine\M-Open-end zipper.jpg" src="images/C:\Users\Shahadath\Desktop\machine\M_closed-end zipper.jpg" width="236" height="95"></td></tr></tbody></table>
 
-Zipper type
+###### Zipper type
 
 Zippers are made from three types of material-
 
@@ -333,28 +343,24 @@ Zippers are made from three types of material-
 
 Image: Type of zipper
 
-**Interlining:** Interlinings are used to provide a specific dimension in a particular part of a garment with attaching an extra fabric in-between the garment's part. Its increases garment durability, fitness and strength i.e. Shirts collar, cuff, flap, box plate and skirts waistband too. Interlinings are mainly two types- 
+##### Interlining
+Interlinings are used to provide a specific dimension in a particular part of a garment with attaching an extra fabric in-between the garment's part. Its increases garment durability, fitness and strength i.e. Shirts collar, cuff, flap, box plate and skirts waistband too. Interlinings are mainly two types- 
 
 1. Fusible interlining 
 2. Non-fusible interlining
 
 ![](images/Z:\SHAHADATH\sw photo\images.jpg)
 
-Fusible interlining
+__Fusible interlining__
 
 ![](images/Z:\SHAHADATH\sw photo\cbe9caa6_26e69b3c_0995_4f6b_b7e3_22b9bc8727da.jpg)
 
-Shirt Interlining
+__Shirt Interlining__
 
-**Elastic:** Elastics are thin and look like ribbon. Used to loose or tight clothing as much required.
+##### Elastic
+Elastics are thin and look like ribbon. Used to loose or tight clothing as much required.
 
-![](images/C:\Users\Shahadath\Desktop\machine\parts\Gripper Elastic.jpg)
-
-Garment elastic
-
-![](images/C:\Users\Shahadath\Desktop\machine\parts\139-elastic-waist-01_lg.jpg)
-
-Elastic attachment in waistband
+![Garment elastic](images/C:\Users\Shahadath\Desktop\machine\parts\Gripper Elastic.jpg)
 
 Example: usage in pants waistband
 
@@ -373,7 +379,7 @@ Question paper:
 5. Write down different types of fabric names.
 6. White down different parts name of zipper.
 
-Answer sheet:
+__Answer sheet:__
 
 1. What type of tools are used to make patterns? 
 
@@ -381,9 +387,7 @@ Answer: Pattern tools are used to make garment patterns. i.e. pattern paper, bro
 
 2. Define: Tracing wheel, French curve, shape curve, notch marker.
 
-Answer: 
-
-Tracing wheel: After actual pattern making, tracing wheels are used to make more patterns like the actual one within the shortest possible period.
+Answer: Tracing wheel: After actual pattern making, tracing wheels are used to make more patterns like the actual one within the shortest possible period.
 
 Shape curve: Wooden or plastic made. For garment pattern making, different parts have shape according to human body i.e. Hip shape, waist shape etc. Shape curve is required to make this type of pattern.
 
@@ -403,7 +407,7 @@ Answer: Cotton, polyester, nylon, rayon, denim, jeans, gabardine, silk, flannel,
 
 Answer: Puller, puller box, zipper teeth, zipper tape, locks etc.
 
-Operation sheet:
+__Operation sheet:__
 
 **Collect tools and materials:**
 
@@ -442,9 +446,9 @@ Answer: Measurement tape, anti-cutter, pattern cutter, cloth cutter, stitch open
 
 Answer: Anti cutter, pattern cutter, cloth cutter, stitch opener, thread cutter etc.
 
-## **CHAPTER-4**
+## CHAPTER-4
 
-### **Introduction of Different Parts of Sewing Machine**
+### Introduction of Different Parts of Sewing Machine
 
 Information sheet
 
@@ -481,12 +485,6 @@ Different parts and functions of sewing machine
 
 **Usage of guide:** Guides are used to keep equal measurement of sewing on fabrics. Which is attached with a feed bar. Its pressed fabrics are like a pressure foot. It’s useful to keep the actual distance between two stitch lines. Different types of guide are available in market i.e. 1/32, 1/16, 1/8, ¼ etc.
 
-![](images/C:\Users\Shahadath\Desktop\foot.jpg)
-
-Different sewing machine guide
-
-Fig: Different type of guides
-
 **Self-check:**
 
 Question sheet:
@@ -516,9 +514,9 @@ Answer: Feed dog/teeth stay below needle to keep contact fabrics with machine be
 
 * * *
 
-## **CHAPTER-5**
+## CHAPTER-5
 
-### **SET MACHINE FOR OPERATION**
+### SET MACHINE FOR OPERATION
 
 Operation sheet
 
@@ -581,11 +579,7 @@ Needle threading of sewing machine
 1. Manually wind the thread from bobbin winder to the bobbin unto 2-3 spin.
 2. Press winder spring and bobbin will be filled up by thread.
 
-![](https://lh4.googleusercontent.com/i8B9rF-NYqrZzx47A8Mf4-k2f3S3JpsoDY8GRkjkoriJf0YsutxCdUAMFLFdo9bJ5MD7AwaxLR7U6RPhMs31YRVfd5F1d-Eo_o1M_FVivQCPJgf26hP3HjaZD8v5yVw0Mg)
-
-Bobbin attachment procedure on sewing machine
-
-![](images/C:\Users\Shahadath\Desktop\machine\bobbin1.jpg)
+![Bobbin attachment procedure on sewing machine](https://lh4.googleusercontent.com/i8B9rF-NYqrZzx47A8Mf4-k2f3S3JpsoDY8GRkjkoriJf0YsutxCdUAMFLFdo9bJ5MD7AwaxLR7U6RPhMs31YRVfd5F1d-Eo_o1M_FVivQCPJgf26hP3HjaZD8v5yVw0Mg)
 
 Process to attach bobbin in sewing machine
 
@@ -594,19 +588,12 @@ Process to attach bobbin in sewing machine
 1. Hold Bobbin and Bobbin case face to face
 2. Insert Bobbin inside the Bobbin case. Be careful that the thread can easily come out from the bobbin hole.
 
-![](https://lh5.googleusercontent.com/eTVZPeeoNeigfMeurGZX1Ozh2YUQvkY1XLcsZGE3LvqcGiXcGPaFi_WnoQzVG1_0bLFY8VlT7E9dy8jwZyGF4LQg5KAr_K7mDPMnziXIFSkpvh3SYnMQ7YqGiiVD5qaN0g)
+![Bobbin attachment](https://lh5.googleusercontent.com/eTVZPeeoNeigfMeurGZX1Ozh2YUQvkY1XLcsZGE3LvqcGiXcGPaFi_WnoQzVG1_0bLFY8VlT7E9dy8jwZyGF4LQg5KAr_K7mDPMnziXIFSkpvh3SYnMQ7YqGiiVD5qaN0g)
 
-Bobbin attachment
 
 **Bobbin case (with bobbin) attachment and remove from machine:** Bobbin case will attach with the hook of Feed dog just below the needle. Bobbin case will attach with the hook by smoother pressing. Bobbin case will be attached with a sound. Imperfect adjustment won’t create any sound. Bobbin case has a spring to remove that case from the sewing machine.
 
 ![](https://lh5.googleusercontent.com/pv0oh7Pl_KFmRAbnIrYG3zDVau6-xSxVMe4AypaCVRA3kaDADjxsCTVI3sVSLRWkRCfC0NznJXccmbGCNVGyZbik52YqMNP0X-6U6leBMLxnJMNCt9vvxEDemc7-mYRiNA)
-
-Bobbin removing procedure
-
-![](images/C:\Users\Shahadath\Desktop\machine\bobbin3.jpg)
-
-Sewing machine bobbin removing process
 
 **Adjustment of SPI (Stitch per Inch/stitch number) and Thread tension:**
 
@@ -626,8 +613,6 @@ Thread tension adjustment - sewing machine
 ![](https://lh6.googleusercontent.com/lMILwfjfkCbtgBFBDEi5gZ8WtEKv6fkl3s3mlDmmPPtZ0P58g0pcs2DYawG2UTX3ZS97wcDYMQMPIVUbdEbThZ9EoRaGNuFL67W0ZkReWbbtMcR_08khMWvommT68Jgpiw)
 
 Tension adjustment
-
-![](images/C:\Users\Shahadath\Desktop\machine\parts\Juki_TL-2010Q_SubTensionUnit.jpg)
 
 **Thread tension adjustment of bobbin:** Below procedures to be followed –
 
@@ -665,9 +650,9 @@ Answer: Hold Bobbin and Bobbin's case face to face. Insert Bobbin inside the Bob
 
 * * *
 
-## **Chapter-6**
+## Chapter-6
 
-### **Basic exercise**
+### Basic exercise
 
 1. Identification of tools and materials according to job nature (Practical). 
 2. Visual identification of sewing machine according to sewing operation (Practical).
@@ -682,9 +667,8 @@ Answer: Hold Bobbin and Bobbin's case face to face. Insert Bobbin inside the Bob
 
 * * *
 
-## **CHAPTER-7**
-
-### **PRACTICE SEWING ON PAPERS**
+## CHAPTER-7
+### PRACTICE SEWING ON PAPERS
 
 Information sheet
 
@@ -728,19 +712,11 @@ Description of different line exercise given below:
 
 This stitching is according to scaling of pressure foot thru one fourth gap straight line. Different parts of shirts, pants, skirts are done by this type of stitching.
 
-![](images/C:\Users\Shahadath\Desktop\jsrtj.jpg)
-
-Stitch type: Straight line
-
 **Straight line with back stitch exercise:**  These types of sewing are done in start and end of garment stitching. Back stitch increases sewing strength.
-
-![](images/C:\Users\Shahadath\Desktop\Untitled1.jpg)
 
 Stitch type: Straight line with bartack
 
 **Sharp corner stitching exercise:** Corners of Shirt collar, pocket or cuffs etc. 
-
-![](images/C:\Users\Shahadath\Desktop\Untitledw2.jpg)
 
 Stitch type: Sharp corner stitching
 
@@ -751,8 +727,6 @@ Stitch type: Sharp corner stitching
 Stitch type: circular round stitch
 
 **Cross line stitching exercise:** Stitching adjustment of under armhole of shirts and cross point of pants will be easier to do below exercise:
-
-![](images/C:\Users\Shahadath\Desktop\dgbsed.jpg)
 
 Stitch type: cross line
 
@@ -816,8 +790,6 @@ Step-5. Make your needle down for insertion into paper.
 Step-6. Make power switch on.
 
 Step-7. Start to sew paper straight. (First, sew without thread and then with thread).
-
-![](images/C:\Users\Shahadath\Desktop\jsrtj.jpg)
 
 Stitch type: power stitch
 
@@ -931,8 +903,6 @@ Step-7. Start to sew paper straight. (First, sew without thread and then with th
 
 Step-8. Switch off after sewing finishes.
 
-![](images/C:\Users\Shahadath\Desktop\dgbsed.jpg)
-
 Stitch type: cross line
 
 Step-9. Take up pressure and take the paper 4” forward by manual hand wheel rotation.
@@ -970,9 +940,9 @@ Answer: Straight line, curve line, circle line, sharp corner and cross line.
 
 * * *
 
-## **Chapter-8**
+## Chapter-8
 
-### **Perform Sewing**
+### Perform Sewing
 
 Information sheet
 
@@ -1112,9 +1082,9 @@ Answer: Collar is the top most part of shirts/Polo shirts having sharp points ca
 
 * * *
 
-## **Chapter-9**
+## Chapter-9
 
-### **Perform sewing in different component**
+### Perform sewing in different component
 
 Operation sheet
 
@@ -1389,9 +1359,9 @@ Now turn opposite the stitching part like a sketch. Then, top stitching using ¼
 
 * * *
 
-## **Chapter-10**
+## Chapter-10
 
-### **Transfer the sewing components for next operation**
+### Transfer the sewing components for next operation
 
 Information sheet
 
@@ -1455,9 +1425,9 @@ Answer: Cuff, sleeve placket (left & right), right sleeve, left sleeve, band col
 
 * * *
 
-## **Chapter-11**
+## Chapter-11
 
-### **Assemble the components**
+### Assemble the components
 
 Information sheet
 
@@ -1719,9 +1689,9 @@ Upper placket joint with sleeve: Larger portion of left sleeve opening insert in
 
 * * *
 
-## **Chapter-12**
+## Chapter-12
 
-### **Machine SOP**
+### Machine SOP
 
 Information sheet
 
@@ -1741,9 +1711,9 @@ Information sheet
 
 * * *
 
-## **Chapter-13**
+## Chapter-13
 
-### **Final evaluation**
+### Final evaluation
 
 * * *
 

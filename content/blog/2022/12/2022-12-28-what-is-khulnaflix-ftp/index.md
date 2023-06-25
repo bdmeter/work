@@ -60,8 +60,6 @@ Khulnaflix FTP URL: [www.khulnaflix.net](https://flix.goisp.net) ; but this is n
 
 To get the latest Khulnaflix FTP updates of movies and series, go to the below link
 
-![khulnaflix-movies](images/khulnaflix-e1672885412541.png)
-
 ## **What's khulnaflix FTP address?**
 
 Trees are more FTP servers locally nowadays. But Khulnaflix FTP is one of the biggest storage server streaming live tv, movies, tv series, animated movies, documentary, software, and games all in one place, khulnaflix have no alternatives.

@@ -1,0 +1,47 @@
+{{/* Returns all hooks and attributes. */}}
+{{- $hooks := newScratch }}
+{{- $attributes := newScratch }}
+{{- range $moduleName, $module := site.Params.HugoPress.Modules }}
+  {{- if or $module.disable $module.disabled }}
+    {{- if site.Params.hugopress.debug }}
+      {{- warnf "[hugopress] [%s] was disabled." $moduleName }}
+    {{- end }}
+    {{- continue }}
+  {{- end }}
+  {{- with .Hooks }}
+    {{- range $name, $option := . }}
+      {{- if or $option.disable $option.disabled }}
+        {{- if site.Params.hugopress.debug }}
+          {{- warnf "[hugopress] [%s] hook %q was disabled." $moduleName $name }}
+        {{- end }}
+        {{- continue }}
+      {{- end }}
+      {{- $option = merge $option (dict
+        "name" $name
+        "module" $moduleName
+        "partial" (printf "hugopress/modules/%s/hooks/%s" $moduleName $name))
+      }}
+      {{- $hooks.Add $name (slice $option) }}
+    {{- end }}
+  {{- end }}
+  {{- with .Attributes }}
+    {{- range $name, $option := . }}
+      {{- if or $option.disable $option.disabled }}
+        {{- if site.Params.hugopress.debug }}
+          {{- warnf "[hugopress] [%s] attribute %q was disabled." $moduleName $name }}
+        {{- end }}
+        {{- continue }}
+      {{- end }}
+      {{- $option = merge $option (dict
+        "name" $name
+        "module" $moduleName
+        "partial" (printf "hugopress/modules/%s/attributes/%s" $moduleName $name))
+      }}
+      {{- $attributes.Add $name (slice $option) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- return dict
+  "hooks" $hooks.Values
+  "attributes" $attributes.Values
+}}
